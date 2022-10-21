@@ -1,0 +1,1281 @@
+item,exp,pronoun,cond,contrast,sent,target
+1,1,he,m,Match,"When he was off work,",Richard
+1,1,she,m,Mismatch,"When she was off work,",Keith
+1,1,she,f,Match,"When she was off work, the",dancer
+1,1,he,f,Mismatch,"When he was off work,",Laura
+2,1,he,m,Match,"When he arrived,",Larry
+2,1,she,m,Mismatch,"When she arrived,",Wayne
+2,1,she,f,Match,"When she arrived,",Cheryl
+2,1,he,f,Mismatch,"When he arrived,",Teresa
+3,1,he,m,Match,"When he was fed up,",Guy
+3,1,she,m,Mismatch,"When she was fed up,",Joseph
+3,1,she,f,Match,"When she was fed up,",Cynthia
+3,1,he,f,Mismatch,"When he was fed up, the",wife
+4,1,he,m,Match,"When he was talking,",Joseph
+4,1,she,m,Mismatch,"When she was talking,",Bradley
+4,1,she,f,Match,"When she was talking,",Dana
+4,1,he,f,Mismatch,"When he was talking,",Janet
+5,1,he,m,Match,"When he was nearby,",Larry
+5,1,she,m,Mismatch,"When she was nearby,",Joseph
+5,1,she,f,Match,"When she was nearby, the",girl
+5,1,he,f,Mismatch,"When he was nearby,",Helen
+6,1,he,m,Match,"When he was lost,",Donald
+6,1,she,m,Mismatch,"When she was lost,",Brad
+6,1,she,f,Match,"When she was lost,",Judy
+6,1,he,f,Mismatch,"When he was lost, the",dancer
+7,1,he,m,Match,"When he was bad-tempered,",Guy
+7,1,she,m,Mismatch,"When she was bad-tempered,",Bruce
+7,1,she,f,Match,"When she was bad-tempered, the",woman
+7,1,he,f,Mismatch,"When he was bad-tempered,",Ann
+8,1,he,m,Match,"When he was jealous, the",father
+8,1,she,m,Mismatch,"When she was jealous,",Steve
+8,1,she,f,Match,"When she was jealous,",Catherine
+8,1,he,f,Mismatch,"When he was jealous, the",dancer
+9,1,he,m,Match,"When he was in residence,",Dan
+9,1,she,m,Mismatch,"When she was in residence,",Russell
+9,1,she,f,Match,"When she was in residence, the",woman
+9,1,he,f,Mismatch,"When he was in residence, the",wife
+10,1,he,m,Match,"When he was introduced,",Wayne
+10,1,she,m,Mismatch,"When she was introduced,",Steve
+10,1,she,f,Match,"When she was introduced,",Sally
+10,1,he,f,Mismatch,"When he was introduced,",Teresa
+11,1,he,m,Match,"When he arrived,",Joseph
+11,1,she,m,Mismatch,"When she arrived,",Richard
+11,1,she,f,Match,"When she arrived,",Cheryl
+11,1,he,f,Mismatch,"When he arrived,",Janet
+12,1,he,m,Match,"When he felt sad,",Guy
+12,1,she,m,Mismatch,"When she felt sad,",Rodney
+12,1,she,f,Match,"When she felt sad,",Amanda
+12,1,he,f,Mismatch,"When he felt sad,",Sally
+13,1,he,m,Match,"When he was present,",Wayne
+13,1,she,m,Mismatch,"When she was present,",Larry
+13,1,she,f,Match,"When she was present,",Carrie
+13,1,he,f,Mismatch,"When he was present,",Lori
+14,1,he,m,Match,"When he was depressed,",Richard
+14,1,she,m,Mismatch,"When she was depressed,",Steve
+14,1,she,f,Match,"When she was depressed,",Cynthia
+14,1,he,f,Mismatch,"When he was depressed,",Amelia
+15,1,he,m,Match,"When he was around,",Brad
+15,1,she,m,Mismatch,"When she was around,",Wayne
+15,1,she,f,Match,"When she was around,",Marie
+15,1,he,f,Mismatch,"When he was around,",Dana
+16,1,he,m,Match,"When he was near,",Joseph
+16,1,she,m,Mismatch,"When she was near,",Richard
+16,1,she,f,Match,"When she was near,",Dana
+16,1,he,f,Mismatch,"When he was near,",Janet
+17,1,he,m,Match,"When he was in court,",Bradley
+17,1,she,m,Mismatch,"When she was in court,",Steve
+17,1,she,f,Match,"When she was in court, the",dancer
+17,1,he,f,Mismatch,"When he was in court,",Helen
+18,1,he,m,Match,"When he was poorly,",Keith
+18,1,she,m,Mismatch,"When she was poorly,",Steve
+18,1,she,f,Match,"When she was poorly,",Dana
+18,1,he,f,Mismatch,"When he was poorly,",Tracy
+19,1,he,m,Match,"When he arrived,",Charles
+19,1,she,m,Mismatch,"When she arrived,",Timothy
+19,1,she,f,Match,"When she arrived,",Janet
+19,1,he,f,Mismatch,"When he arrived,",Lori
+20,1,he,m,Match,"When he was appointed,",Benjamin
+20,1,she,m,Mismatch,"When she was appointed,",Larry
+20,1,she,f,Match,"When she was appointed,",Teresa
+20,1,he,f,Mismatch,"When he was appointed,",Tracy
+21,1,he,m,Match,"When he was fired,",Timothy
+21,1,she,m,Mismatch,"When she was fired,",Liam
+21,1,she,f,Match,"When she was fired,",Teresa
+21,1,he,f,Mismatch,"When he was fired,",Heidi
+22,1,he,m,Match,"When he was close, the",father
+22,1,she,m,Mismatch,"When she was close, the",father
+22,1,she,f,Match,"When she was close,",Carrie
+22,1,he,f,Mismatch,"When he was close,",Elizabeth
+23,1,he,m,Match,"When he was retired,",Steve
+23,1,she,m,Mismatch,"When she was retired,",Donald
+23,1,she,f,Match,"When she was retired,",Christina
+23,1,he,f,Mismatch,"When he was retired, the",dancer
+24,1,he,m,Match,"When he was abroad, the",guy
+24,1,she,m,Mismatch,"When she was abroad,",Larry
+24,1,she,f,Match,"When she was abroad,",Lori
+24,1,he,f,Mismatch,"When he was abroad,",Catherine
+25,1,he,m,Match,"When he was discovered,",Thomas
+25,1,she,m,Mismatch,"When she was discovered,",Donald
+25,1,she,f,Match,"When she was discovered,",Suzanne
+25,1,he,f,Mismatch,"When he was discovered,",Dana
+26,1,he,m,Match,"When he was busy, the",nephew
+26,1,she,m,Mismatch,"When she was busy,",Bruce
+26,1,she,f,Match,"When she was busy,",Lori
+26,1,he,f,Mismatch,"When he was busy,",Christina
+27,1,he,m,Match,"When he was twenty-one,",Brian
+27,1,she,m,Mismatch,"When she was twenty-one,",Brad
+27,1,she,f,Match,"When she was twenty-one,",Naomi
+27,1,he,f,Mismatch,"When he was twenty-one, the",woman
+28,1,he,m,Match,"When he was annoyed,",Larry
+28,1,she,m,Mismatch,"When she was annoyed,",Richard
+28,1,she,f,Match,"When she was annoyed,",Ann
+28,1,he,f,Mismatch,"When he was annoyed, the",woman
+29,1,he,m,Match,"When he was in church,",Liam
+29,1,she,m,Mismatch,"When she was in church,",Richard
+29,1,she,f,Match,"When she was in church, the",dancer
+29,1,he,f,Mismatch,"When he was in church,",Teresa
+30,1,he,m,Match,"When he was banished,",Timothy
+30,1,she,m,Mismatch,"When she was banished,",Russell
+30,1,she,f,Match,"When she was banished,",Sheila
+30,1,he,f,Mismatch,"When he was banished,",Cheryl
+31,1,he,m,Match,"When he was angry,",Steve
+31,1,she,m,Mismatch,"When she was angry,",Wayne
+31,1,she,f,Match,"When she was angry, the",dancer
+31,1,he,f,Mismatch,"When he was angry,",Janet
+32,1,he,m,Match,"When he was distraught,",Brian
+32,1,she,m,Mismatch,"When she was distraught,",Russell
+32,1,she,f,Match,"When she was distraught, the",wife
+32,1,he,f,Mismatch,"When he was distraught,",Helen
+1,1,he,m,Match,"When he was off work,",Russell
+1,1,she,m,Mismatch,"When she was off work,",Dan
+1,1,she,f,Match,"When she was off work,",Judy
+1,1,he,f,Mismatch,"When he was off work,",Grace
+2,1,he,m,Match,"When he arrived,",Benjamin
+2,1,she,m,Mismatch,"When she arrived,",Steve
+2,1,she,f,Match,"When she arrived,",Claire
+2,1,he,f,Mismatch,"When he arrived,",Mary
+3,1,he,m,Match,"When he was fed up,",Benjamin
+3,1,she,m,Mismatch,"When she was fed up,",Marcus
+3,1,she,f,Match,"When she was fed up,",Kristen
+3,1,he,f,Mismatch,"When he was fed up,",Marie
+4,1,he,m,Match,"When he was talking,",Richard
+4,1,she,m,Mismatch,"When she was talking,",Alexander
+4,1,she,f,Match,"When she was talking,",Marie
+4,1,he,f,Mismatch,"When he was talking, the",wife
+5,1,he,m,Match,"When he was nearby,",Keith
+5,1,she,m,Mismatch,"When she was nearby,",Larry
+5,1,she,f,Match,"When she was nearby, the",sister
+5,1,he,f,Mismatch,"When he was nearby, the",girl
+6,1,he,m,Match,"When he was lost, the",guy
+6,1,she,m,Mismatch,"When she was lost,",Mark
+6,1,she,f,Match,"When she was lost, the",girl
+6,1,he,f,Mismatch,"When he was lost,",Suzanne
+7,1,he,m,Match,"When he was bad-tempered,",Alexander
+7,1,she,m,Mismatch,"When she was bad-tempered,",Dennis
+7,1,she,f,Match,"When she was bad-tempered,",Carrie
+7,1,he,f,Mismatch,"When he was bad-tempered,",Grace
+8,1,he,m,Match,"When he was jealous,",Benjamin
+8,1,she,m,Mismatch,"When she was jealous,",Brian
+8,1,she,f,Match,"When she was jealous, the",girlfriend
+8,1,he,f,Mismatch,"When he was jealous,",Catherine
+9,1,he,m,Match,"When he was in residence,",Mark
+9,1,she,m,Mismatch,"When she was in residence,",Brad
+9,1,she,f,Match,"When she was in residence,",Sheila
+9,1,he,f,Mismatch,"When he was in residence,",Catherine
+10,1,he,m,Match,"When he was introduced,",Charles
+10,1,she,m,Mismatch,"When she was introduced,",Richard
+10,1,she,f,Match,"When she was introduced,",Karen
+10,1,he,f,Mismatch,"When he was introduced,",Claire
+11,1,he,m,Match,"When he arrived,",Liam
+11,1,she,m,Mismatch,"When she arrived,",Larry
+11,1,she,f,Match,"When she arrived, the",mother
+11,1,he,f,Mismatch,"When he arrived,",Carrie
+12,1,he,m,Match,"When he felt sad,",Charles
+12,1,she,m,Mismatch,"When she felt sad,",Dan
+12,1,she,f,Match,"When she felt sad,",Theresa
+12,1,he,f,Mismatch,"When he felt sad,",Kristen
+13,1,he,m,Match,"When he was present,",Steven
+13,1,she,m,Mismatch,"When she was present,",Bruce
+13,1,she,f,Match,"When she was present,",Claire
+13,1,he,f,Mismatch,"When he was present,",Laura
+14,1,he,m,Match,"When he was depressed,",Larry
+14,1,she,m,Mismatch,"When she was depressed,",Brian
+14,1,she,f,Match,"When she was depressed,",Alice
+14,1,he,f,Mismatch,"When he was depressed,",Naomi
+15,1,he,m,Match,"When he was around,",Guy
+15,1,she,m,Mismatch,"When she was around,",Liam
+15,1,she,f,Match,"When she was around,",Teresa
+15,1,he,f,Mismatch,"When he was around,",Christina
+16,1,he,m,Match,"When he was near, the",father
+16,1,she,m,Mismatch,"When she was near,",Russell
+16,1,she,f,Match,"When she was near,",Kristen
+16,1,he,f,Mismatch,"When he was near,",Dana
+17,1,he,m,Match,"When he was in court, the",nephew
+17,1,she,m,Mismatch,"When she was in court,",Russell
+17,1,she,f,Match,"When she was in court, the",girl
+17,1,he,f,Mismatch,"When he was in court,",Naomi
+18,1,he,m,Match,"When he was poorly,",Alexander
+18,1,she,m,Mismatch,"When she was poorly,",Larry
+18,1,she,f,Match,"When she was poorly,",Sheila
+18,1,he,f,Mismatch,"When he was poorly,",Cynthia
+19,1,he,m,Match,"When he arrived,",Bradley
+19,1,she,m,Mismatch,"When she arrived,",Keith
+19,1,she,f,Match,"When she arrived,",Judy
+19,1,he,f,Mismatch,"When he arrived,",Amanda
+20,1,he,m,Match,"When he was appointed,",Steven
+20,1,she,m,Mismatch,"When she was appointed,",Russell
+20,1,she,f,Match,"When she was appointed, the",girlfriend
+20,1,he,f,Mismatch,"When he was appointed,",Lori
+21,1,he,m,Match,"When he was fired,",Donald
+21,1,she,m,Mismatch,"When she was fired,",Russell
+21,1,she,f,Match,"When she was fired,",Lori
+21,1,he,f,Mismatch,"When he was fired,",Linda
+22,1,he,m,Match,"When he was close,",Jason
+22,1,she,m,Mismatch,"When she was close,",Charles
+22,1,she,f,Match,"When she was close,",Cynthia
+22,1,he,f,Mismatch,"When he was close,",Tiffany
+23,1,he,m,Match,"When he was retired,",Thomas
+23,1,she,m,Mismatch,"When she was retired,",Charles
+23,1,she,f,Match,"When she was retired,",Lori
+23,1,he,f,Mismatch,"When he was retired,",Teresa
+24,1,he,m,Match,"When he was abroad,",Charles
+24,1,she,m,Mismatch,"When she was abroad,",John
+24,1,she,f,Match,"When she was abroad,",Karen
+24,1,he,f,Mismatch,"When he was abroad,",Linda
+25,1,he,m,Match,"When he was discovered,",Donald
+25,1,she,m,Mismatch,"When she was discovered,",Douglas
+25,1,she,f,Match,"When she was discovered,",Naomi
+25,1,he,f,Mismatch,"When he was discovered,",Sheila
+26,1,he,m,Match,"When he was busy,",Douglas
+26,1,she,m,Mismatch,"When she was busy, the",nephew
+26,1,she,f,Match,"When she was busy,",Elizabeth
+26,1,he,f,Mismatch,"When he was busy,",Catherine
+27,1,he,m,Match,"When he was twenty-one, the",father
+27,1,she,m,Mismatch,"When she was twenty-one,",Edward
+27,1,she,f,Match,"When she was twenty-one,",Connie
+27,1,he,f,Mismatch,"When he was twenty-one,",Dana
+28,1,he,m,Match,"When he was annoyed, the",guy
+28,1,she,m,Mismatch,"When she was annoyed,",Bruce
+28,1,she,f,Match,"When she was annoyed,",Leslie
+28,1,he,f,Mismatch,"When he was annoyed,",Sheila
+29,1,he,m,Match,"When he was in church,",Keith
+29,1,she,m,Mismatch,"When she was in church,",Steve
+29,1,she,f,Match,"When she was in church,",Ann
+29,1,he,f,Mismatch,"When he was in church,",Sheila
+30,1,he,m,Match,"When he was banished, the",guy
+30,1,she,m,Mismatch,"When she was banished,",Keith
+30,1,she,f,Match,"When she was banished,",Cynthia
+30,1,he,f,Mismatch,"When he was banished,",Elizabeth
+31,1,he,m,Match,"When he was angry,",Russell
+31,1,she,m,Mismatch,"When she was angry,",Jason
+31,1,she,f,Match,"When she was angry,",Sheila
+31,1,he,f,Mismatch,"When he was angry,",Teresa
+32,1,he,m,Match,"When he was distraught,",Thomas
+32,1,she,m,Mismatch,"When she was distraught,",Bruce
+32,1,she,f,Match,"When she was distraught,",Teresa
+32,1,he,f,Mismatch,"When he was distraught,",Laura
+1,1,he,m,Match,"When he was off work,",Timothy
+1,1,she,m,Mismatch,"When she was off work,",Ronald
+1,1,she,f,Match,"When she was off work,",Amanda
+1,1,he,f,Mismatch,"When he was off work, the",lady
+2,1,he,m,Match,"When he arrived,",Alexander
+2,1,she,m,Mismatch,"When she arrived,",Charles
+2,1,she,f,Match,"When she arrived,",Julie
+2,1,he,f,Mismatch,"When he arrived,",Diana
+3,1,he,m,Match,"When he was fed up,",Phillip
+3,1,she,m,Mismatch,"When she was fed up,",Bradley
+3,1,she,f,Match,"When she was fed up,",Allison
+3,1,he,f,Mismatch,"When he was fed up,",Lori
+4,1,he,m,Match,"When he was talking, the",guy
+4,1,she,m,Mismatch,"When she was talking,",Jason
+4,1,she,f,Match,"When she was talking,",Amanda
+4,1,he,f,Mismatch,"When he was talking,",Helen
+5,1,he,m,Match,"When he was nearby,",Robert
+5,1,she,m,Mismatch,"When she was nearby,",Charles
+5,1,she,f,Match,"When she was nearby,",Rachel
+5,1,he,f,Mismatch,"When he was nearby,",Carol
+6,1,he,m,Match,"When he was lost,",Samuel
+6,1,she,m,Mismatch,"When she was lost,",Roger
+6,1,she,f,Match,"When she was lost,",Connie
+6,1,he,f,Mismatch,"When he was lost, the",girlfriend
+7,1,he,m,Match,"When he was bad-tempered,",Christopher
+7,1,she,m,Mismatch,"When she was bad-tempered,",Travis
+7,1,she,f,Match,"When she was bad-tempered,",Diane
+7,1,he,f,Mismatch,"When he was bad-tempered,",Tiffany
+8,1,he,m,Match,"When he was jealous,",Bradley
+8,1,she,m,Mismatch,"When she was jealous,",Brad
+8,1,she,f,Match,"When she was jealous,",Maria
+8,1,he,f,Mismatch,"When he was jealous,",Alice
+9,1,he,m,Match,"When he was in residence,",Adam
+9,1,she,m,Mismatch,"When she was in residence,",Rodney
+9,1,she,f,Match,"When she was in residence,",Anne
+9,1,he,f,Mismatch,"When he was in residence,",Natalie
+10,1,he,m,Match,"When he was introduced, the",nephew
+10,1,she,m,Mismatch,"When she was introduced,",Liam
+10,1,she,f,Match,"When she was introduced,",Catherine
+10,1,he,f,Mismatch,"When he was introduced,",Cynthia
+11,1,he,m,Match,"When he arrived,",Larry
+11,1,she,m,Mismatch,"When she arrived,",Samuel
+11,1,she,f,Match,"When she arrived,",Mary
+11,1,he,f,Mismatch,"When he arrived, the",sister
+12,1,he,m,Match,"When he felt sad,",Phillip
+12,1,she,m,Mismatch,"When she felt sad,",Frank
+12,1,she,f,Match,"When she felt sad,",Kristen
+12,1,he,f,Mismatch,"When he felt sad, the",girlfriend
+13,1,he,m,Match,"When he was present,",Dan
+13,1,she,m,Mismatch,"When she was present,",Travis
+13,1,she,f,Match,"When she was present, the",sister
+13,1,he,f,Mismatch,"When he was present, the",mother
+14,1,he,m,Match,"When he was depressed,",Russell
+14,1,she,m,Mismatch,"When she was depressed,",Larry
+14,1,she,f,Match,"When she was depressed,",Tara
+14,1,he,f,Mismatch,"When he was depressed,",Leslie
+15,1,he,m,Match,"When he was around,",Samuel
+15,1,she,m,Mismatch,"When she was around,",Timothy
+15,1,she,f,Match,"When she was around,",Sheila
+15,1,he,f,Mismatch,"When he was around,",Kristen
+16,1,he,m,Match,"When he was near,",Timothy
+16,1,she,m,Mismatch,"When she was near,",Timothy
+16,1,she,f,Match,"When she was near,",Danielle
+16,1,he,f,Mismatch,"When he was near,",Cheryl
+17,1,he,m,Match,"When he was in court,",Travis
+17,1,she,m,Mismatch,"When she was in court,",Steven
+17,1,she,f,Match,"When she was in court,",Wendy
+17,1,he,f,Mismatch,"When he was in court,",Leslie
+18,1,he,m,Match,"When he was poorly,",Mark
+18,1,she,m,Mismatch,"When she was poorly,",Ronald
+18,1,she,f,Match,"When she was poorly,",Cheryl
+18,1,he,f,Mismatch,"When he was poorly,",Anne
+19,1,he,m,Match,"When he arrived,",Brett
+19,1,she,m,Mismatch,"When she arrived,",John
+19,1,she,f,Match,"When she arrived,",Karen
+19,1,he,f,Mismatch,"When he arrived,",Nicole
+20,1,he,m,Match,"When he was appointed,",Phillip
+20,1,she,m,Mismatch,"When she was appointed,",Keith
+20,1,she,f,Match,"When she was appointed, the",sister
+20,1,he,f,Mismatch,"When he was appointed,",Elizabeth
+21,1,he,m,Match,"When he was fired,",Bradley
+21,1,she,m,Mismatch,"When she was fired, the",guy
+21,1,she,f,Match,"When she was fired,",Laura
+21,1,he,f,Mismatch,"When he was fired,",Suzanne
+22,1,he,m,Match,"When he was close,",Ronald
+22,1,she,m,Mismatch,"When she was close, the",guy
+22,1,she,f,Match,"When she was close,",Grace
+22,1,he,f,Mismatch,"When he was close,",Wendy
+23,1,he,m,Match,"When he was retired,",Bradley
+23,1,she,m,Mismatch,"When she was retired,",Alexander
+23,1,she,f,Match,"When she was retired, the",mother
+23,1,he,f,Mismatch,"When he was retired,",Christina
+24,1,he,m,Match,"When he was abroad,",Travis
+24,1,she,m,Mismatch,"When she was abroad,",Walter
+24,1,she,f,Match,"When she was abroad, the",mother
+24,1,he,f,Mismatch,"When he was abroad,",Anne
+25,1,he,m,Match,"When he was discovered,",Bruce
+25,1,she,m,Mismatch,"When she was discovered,",Ronald
+25,1,she,f,Match,"When she was discovered,",Alice
+25,1,he,f,Mismatch,"When he was discovered,",Carol
+26,1,he,m,Match,"When he was busy,",Dennis
+26,1,she,m,Mismatch,"When she was busy,",Mitchell
+26,1,she,f,Match,"When she was busy,",Nicole
+26,1,he,f,Mismatch,"When he was busy,",Pamela
+27,1,he,m,Match,"When he was twenty-one,",Liam
+27,1,she,m,Mismatch,"When she was twenty-one,",Mark
+27,1,she,f,Match,"When she was twenty-one,",Grace
+27,1,he,f,Mismatch,"When he was twenty-one, the",girl
+28,1,he,m,Match,"When he was annoyed,",Eric
+28,1,she,m,Mismatch,"When she was annoyed, the",guy
+28,1,she,f,Match,"When she was annoyed,",Wendy
+28,1,he,f,Mismatch,"When he was annoyed,",Sally
+29,1,he,m,Match,"When he was in church,",Steven
+29,1,she,m,Mismatch,"When she was in church,",Benjamin
+29,1,she,f,Match,"When she was in church,",Claire
+29,1,he,f,Mismatch,"When he was in church, the",girlfriend
+30,1,he,m,Match,"When he was banished,",Jason
+30,1,she,m,Mismatch,"When she was banished,",Bradley
+30,1,she,f,Match,"When she was banished,",Suzanne
+30,1,he,f,Mismatch,"When he was banished,",Mary
+31,1,he,m,Match,"When he was angry,",Timothy
+31,1,she,m,Mismatch,"When she was angry,",Jeffrey
+31,1,she,f,Match,"When she was angry,",Karen
+31,1,he,f,Mismatch,"When he was angry,",Claire
+32,1,he,m,Match,"When he was distraught,",Guy
+32,1,she,m,Mismatch,"When she was distraught,",Rodney
+32,1,she,f,Match,"When she was distraught,",Marie
+32,1,he,f,Mismatch,"When he was distraught,",Danielle
+1,1,he,m,Match,"When he was off work,",Bruce
+1,1,she,m,Mismatch,"When she was off work,",Mark
+1,1,she,f,Match,"When she was off work, the",woman
+1,1,he,f,Mismatch,"When he was off work, the",granddaughter
+2,1,he,m,Match,"When he arrived,",Kenneth
+2,1,she,m,Mismatch,"When she arrived,",Samuel
+2,1,she,f,Match,"When she arrived, the",waitress
+2,1,he,f,Mismatch,"When he arrived, the",granddaughter
+3,1,he,m,Match,"When he was fed up,",Jeffrey
+3,1,she,m,Mismatch,"When she was fed up,",Martin
+3,1,she,f,Match,"When she was fed up,",Leslie
+3,1,he,f,Mismatch,"When he was fed up,",Carrie
+4,1,he,m,Match,"When he was talking,",Benjamin
+4,1,she,m,Mismatch,"When she was talking,",Frank
+4,1,she,f,Match,"When she was talking,",Cynthia
+4,1,he,f,Mismatch,"When he was talking, the",girlfriend
+5,1,he,m,Match,"When he was nearby,",Ronald
+5,1,she,m,Mismatch,"When she was nearby,",Alexander
+5,1,she,f,Match,"When she was nearby,",Veronica
+5,1,he,f,Mismatch,"When he was nearby,",Meredith
+6,1,he,m,Match,"When he was lost,",John
+6,1,she,m,Mismatch,"When she was lost,",Theodore
+6,1,she,f,Match,"When she was lost,",Tiffany
+6,1,he,f,Mismatch,"When he was lost,",Diana
+7,1,he,m,Match,"When he was bad-tempered,",Dan
+7,1,she,m,Mismatch,"When she was bad-tempered, the",grandson
+7,1,she,f,Match,"When she was bad-tempered,",Tara
+7,1,he,f,Mismatch,"When he was bad-tempered,",Rachel
+8,1,he,m,Match,"When he was jealous,",Bruce
+8,1,she,m,Mismatch,"When she was jealous,",Douglas
+8,1,she,f,Match,"When she was jealous,",Leslie
+8,1,he,f,Mismatch,"When he was jealous,",Nicole
+9,1,he,m,Match,"When he was in residence,",William
+9,1,she,m,Mismatch,"When she was in residence,",Douglas
+9,1,she,f,Match,"When she was in residence,",Tiffany
+9,1,he,f,Mismatch,"When he was in residence,",Sharon
+10,1,he,m,Match,"When he was introduced,",Steven
+10,1,she,m,Mismatch,"When she was introduced,",Alexander
+10,1,she,f,Match,"When she was introduced, the",granddaughter
+10,1,he,f,Mismatch,"When he was introduced,",Sharon
+11,1,he,m,Match,"When he arrived,",Thomas
+11,1,she,m,Mismatch,"When she arrived,",Dennis
+11,1,she,f,Match,"When she arrived,",Julie
+11,1,he,f,Mismatch,"When he arrived,",Connie
+12,1,he,m,Match,"When he felt sad,",Brett
+12,1,she,m,Mismatch,"When she felt sad,",Kevin
+12,1,she,f,Match,"When she felt sad,",Nicole
+12,1,he,f,Mismatch,"When he felt sad,",Amanda
+13,1,he,m,Match,"When he was present,",Eric
+13,1,she,m,Mismatch,"When she was present,",Theodore
+13,1,she,f,Match,"When she was present,",Nicole
+13,1,he,f,Mismatch,"When he was present,",Naomi
+14,1,he,m,Match,"When he was depressed, the",son
+14,1,she,m,Mismatch,"When she was depressed,",Keith
+14,1,she,f,Match,"When she was depressed,",Ellen
+14,1,he,f,Mismatch,"When he was depressed,",Wendy
+15,1,he,m,Match,"When he was around,",Kevin
+15,1,she,m,Mismatch,"When she was around,",Keith
+15,1,she,f,Match,"When she was around,",Sally
+15,1,he,f,Mismatch,"When he was around,",Naomi
+16,1,he,m,Match,"When he was near,",Benjamin
+16,1,she,m,Mismatch,"When she was near,",Donald
+16,1,she,f,Match,"When she was near,",Mary
+16,1,he,f,Mismatch,"When he was near,",Susan
+17,1,he,m,Match,"When he was in court,",William
+17,1,she,m,Mismatch,"When she was in court,",Eric
+17,1,she,f,Match,"When she was in court,",Anna
+17,1,he,f,Mismatch,"When he was in court,",Nicole
+18,1,he,m,Match,"When he was poorly,",Mitchell
+18,1,she,m,Mismatch,"When she was poorly,",Jeffrey
+18,1,she,f,Match,"When she was poorly,",Julie
+18,1,he,f,Mismatch,"When he was poorly,",Julia
+19,1,he,m,Match,"When he arrived,",Travis
+19,1,she,m,Mismatch,"When she arrived,",Ronald
+19,1,she,f,Match,"When she arrived, the",sister
+19,1,he,f,Mismatch,"When he arrived,",Vanessa
+20,1,he,m,Match,"When he was appointed,",Eric
+20,1,she,m,Mismatch,"When she was appointed,",Benjamin
+20,1,she,f,Match,"When she was appointed,",Sharon
+20,1,he,f,Mismatch,"When he was appointed,",Grace
+21,1,he,m,Match,"When he was fired, the",nephew
+21,1,she,m,Mismatch,"When she was fired,",Edward
+21,1,she,f,Match,"When she was fired, the",lady
+21,1,he,f,Mismatch,"When he was fired,",Danielle
+22,1,he,m,Match,"When he was close,",Frank
+22,1,she,m,Mismatch,"When she was close,",Ronald
+22,1,she,f,Match,"When she was close,",Tiffany
+22,1,he,f,Mismatch,"When he was close, the",waitress
+23,1,he,m,Match,"When he was retired,",Samuel
+23,1,she,m,Mismatch,"When she was retired,",Steven
+23,1,she,f,Match,"When she was retired, the",sister
+23,1,he,f,Mismatch,"When he was retired,",Victoria
+24,1,he,m,Match,"When he was abroad,",Derek
+24,1,she,m,Mismatch,"When she was abroad,",Carlos
+24,1,she,f,Match,"When she was abroad,",Elizabeth
+24,1,he,f,Mismatch,"When he was abroad,",Meredith
+25,1,he,m,Match,"When he was discovered,",Jason
+25,1,she,m,Mismatch,"When she was discovered,",Eric
+25,1,she,f,Match,"When she was discovered, the",waitress
+25,1,he,f,Mismatch,"When he was discovered,",Beth
+26,1,he,m,Match,"When he was busy,",Carlos
+26,1,she,m,Mismatch,"When she was busy,",Todd
+26,1,she,f,Match,"When she was busy,",Grace
+26,1,he,f,Mismatch,"When he was busy,",Susan
+27,1,he,m,Match,"When he was twenty-one,",Walter
+27,1,she,m,Mismatch,"When she was twenty-one,",Phillip
+27,1,she,f,Match,"When she was twenty-one,",Ellen
+27,1,he,f,Mismatch,"When he was twenty-one, the",girlfriend
+28,1,he,m,Match,"When he was annoyed,",Travis
+28,1,she,m,Mismatch,"When she was annoyed,",Bradley
+28,1,she,f,Match,"When she was annoyed,",Beth
+28,1,he,f,Mismatch,"When he was annoyed,",Maria
+29,1,he,m,Match,"When he was in church,",Roger
+29,1,she,m,Mismatch,"When she was in church,",Martin
+29,1,she,f,Match,"When she was in church,",Alice
+29,1,he,f,Mismatch,"When he was in church,",Naomi
+30,1,he,m,Match,"When he was banished,",Rodney
+30,1,she,m,Mismatch,"When she was banished,",Steven
+30,1,she,f,Match,"When she was banished,",Anne
+30,1,he,f,Mismatch,"When he was banished, the",lady
+31,1,he,m,Match,"When he was angry,",Bruce
+31,1,she,m,Mismatch,"When she was angry,",Carlos
+31,1,she,f,Match,"When she was angry,",Sarah
+31,1,he,f,Mismatch,"When he was angry,",Laura
+32,1,he,m,Match,"When he was distraught,",Charles
+32,1,she,m,Mismatch,"When she was distraught,",Christopher
+32,1,she,f,Match,"When she was distraught,",Alice
+32,1,he,f,Mismatch,"When he was distraught, the",sister
+1,1,he,m,Match,"When he was off work,",Charles
+1,1,she,m,Mismatch,"When she was off work, the",grandson
+1,1,she,f,Match,"When she was off work,",Danielle
+1,1,he,f,Mismatch,"When he was off work,",Laurie
+2,1,he,m,Match,"When he arrived, the",boy
+2,1,she,m,Mismatch,"When she arrived,",Chad
+2,1,she,f,Match,"When she arrived,",Veronica
+2,1,he,f,Mismatch,"When he arrived,",Ellen
+3,1,he,m,Match,"When he was fed up,",Eric
+3,1,she,m,Mismatch,"When she was fed up,",Edward
+3,1,she,f,Match,"When she was fed up,",Florence
+3,1,he,f,Mismatch,"When he was fed up,",Anna
+4,1,he,m,Match,"When he was talking,",Christopher
+4,1,she,m,Mismatch,"When she was talking,",Travis
+4,1,she,f,Match,"When she was talking,",Suzanne
+4,1,he,f,Mismatch,"When he was talking,",Stephanie
+5,1,he,m,Match,"When he was nearby,",Phillip
+5,1,she,m,Mismatch,"When she was nearby,",Omar
+5,1,she,f,Match,"When she was nearby,",Patricia
+5,1,he,f,Mismatch,"When he was nearby, the",granddaughter
+6,1,he,m,Match,"When he was lost,",Brett
+6,1,she,m,Mismatch,"When she was lost,",Paul
+6,1,she,f,Match,"When she was lost,",Cindy
+6,1,he,f,Mismatch,"When he was lost, the",waitress
+7,1,he,m,Match,"When he was bad-tempered,",Phillip
+7,1,she,m,Mismatch,"When she was bad-tempered, the",man
+7,1,she,f,Match,"When she was bad-tempered, the",granddaughter
+7,1,he,f,Mismatch,"When he was bad-tempered,",Wendy
+8,1,he,m,Match,"When he was jealous,",Edward
+8,1,she,m,Mismatch,"When she was jealous,",Jerry
+8,1,she,f,Match,"When she was jealous,",Veronica
+8,1,he,f,Mismatch,"When he was jealous, the",sister
+9,1,he,m,Match,"When he was in residence,",George
+9,1,she,m,Mismatch,"When she was in residence,",Patrick
+9,1,she,f,Match,"When she was in residence,",Jill
+9,1,he,f,Mismatch,"When he was in residence,",Meredith
+10,1,he,m,Match,"When he was introduced,",William
+10,1,she,m,Mismatch,"When she was introduced,",Douglas
+10,1,she,f,Match,"When she was introduced,",Tara
+10,1,he,f,Mismatch,"When he was introduced,",Jill
+11,1,he,m,Match,"When he arrived,",Keith
+11,1,she,m,Mismatch,"When she arrived,",Omar
+11,1,she,f,Match,"When she arrived, the",grandmother
+11,1,he,f,Mismatch,"When he arrived,",Anne
+12,1,he,m,Match,"When he felt sad,",Andrew
+12,1,she,m,Mismatch,"When she felt sad,",Adam
+12,1,she,f,Match,"When she felt sad, the",lady
+12,1,he,f,Mismatch,"When he felt sad,",Stephanie
+13,1,he,m,Match,"When he was present,",Carlos
+13,1,she,m,Mismatch,"When she was present,",Omar
+13,1,she,f,Match,"When she was present,",Tiffany
+13,1,he,f,Mismatch,"When he was present,",Mary
+14,1,he,m,Match,"When he was depressed,",Aaron
+14,1,she,m,Mismatch,"When she was depressed, the",father
+14,1,she,f,Match,"When she was depressed,",Laurie
+14,1,he,f,Mismatch,"When he was depressed,",Susan
+15,1,he,m,Match,"When he was around,",Gary
+15,1,she,m,Mismatch,"When she was around,",Douglas
+15,1,she,f,Match,"When she was around,",Maria
+15,1,he,f,Mismatch,"When he was around,",Elizabeth
+16,1,he,m,Match,"When he was near,",Jason
+16,1,she,m,Mismatch,"When she was near,",Bradley
+16,1,she,f,Match,"When she was near,",Diana
+16,1,he,f,Mismatch,"When he was near, the",actress
+17,1,he,m,Match,"When he was in court,",Paul
+17,1,she,m,Mismatch,"When she was in court,",William
+17,1,she,f,Match,"When she was in court, the",lady
+17,1,he,f,Mismatch,"When he was in court, the",lady
+18,1,he,m,Match,"When he was poorly,",Adam
+18,1,she,m,Mismatch,"When she was poorly,",Andrew
+18,1,she,f,Match,"When she was poorly,",Wendy
+18,1,he,f,Mismatch,"When he was poorly,",Natalie
+19,1,he,m,Match,"When he arrived,",Adam
+19,1,she,m,Mismatch,"When she arrived,",Andrew
+19,1,she,f,Match,"When she arrived,",Pamela
+19,1,he,f,Mismatch,"When he arrived,",Natalie
+20,1,he,m,Match,"When he was appointed,",Mitchell
+20,1,she,m,Mismatch,"When she was appointed,",Brett
+20,1,she,f,Match,"When she was appointed,",Carol
+20,1,he,f,Mismatch,"When he was appointed,",Wendy
+21,1,he,m,Match,"When he was fired,",John
+21,1,she,m,Mismatch,"When she was fired,",Mark
+21,1,she,f,Match,"When she was fired,",Erin
+21,1,he,f,Mismatch,"When he was fired,",Meredith
+22,1,he,m,Match,"When he was close,",Mitchell
+22,1,she,m,Mismatch,"When she was close,",Theodore
+22,1,she,f,Match,"When she was close, the",lady
+22,1,he,f,Mismatch,"When he was close,",Veronica
+23,1,he,m,Match,"When he was retired,",Ronald
+23,1,she,m,Mismatch,"When she was retired,",Douglas
+23,1,she,f,Match,"When she was retired,",Vanessa
+23,1,he,f,Mismatch,"When he was retired,",Jessica
+24,1,he,m,Match,"When he was abroad,",Theodore
+24,1,she,m,Mismatch,"When she was abroad,",Omar
+24,1,she,f,Match,"When she was abroad,",Maria
+24,1,he,f,Mismatch,"When he was abroad,",Jill
+25,1,he,m,Match,"When he was discovered,",Samuel
+25,1,she,m,Mismatch,"When she was discovered,",Omar
+25,1,she,f,Match,"When she was discovered,",Ellen
+25,1,he,f,Mismatch,"When he was discovered,",Patricia
+26,1,he,m,Match,"When he was busy,",Curtis
+26,1,she,m,Mismatch,"When she was busy,",Paul
+26,1,she,f,Match,"When she was busy,",Wendy
+26,1,he,f,Mismatch,"When he was busy,",Cindy
+27,1,he,m,Match,"When he was twenty-one,",Andrew
+27,1,she,m,Mismatch,"When she was twenty-one,",Carlos
+27,1,she,f,Match,"When she was twenty-one,",Susan
+27,1,he,f,Mismatch,"When he was twenty-one,",Elizabeth
+28,1,he,m,Match,"When he was annoyed, the",grandson
+28,1,she,m,Mismatch,"When she was annoyed,",Douglas
+28,1,she,f,Match,"When she was annoyed,",Denise
+28,1,he,f,Mismatch,"When he was annoyed, the",sister
+29,1,he,m,Match,"When he was in church,",Mitchell
+29,1,she,m,Mismatch,"When she was in church,",Steven
+29,1,she,f,Match,"When she was in church, the",lady
+29,1,he,f,Mismatch,"When he was in church, the",waitress
+30,1,he,m,Match,"When he was banished, the",boy
+30,1,she,m,Mismatch,"When she was banished,",Ronald
+30,1,she,f,Match,"When she was banished,",Connie
+30,1,he,f,Mismatch,"When he was banished,",Victoria
+31,1,he,m,Match,"When he was angry,",Dan
+31,1,she,m,Mismatch,"When she was angry,",Omar
+31,1,she,f,Match,"When she was angry,",Tara
+31,1,he,f,Mismatch,"When he was angry, the",girl
+32,1,he,m,Match,"When he was distraught,",Bradley
+32,1,she,m,Mismatch,"When she was distraught,",Douglas
+32,1,she,f,Match,"When she was distraught,",Meredith
+32,1,he,f,Mismatch,"When he was distraught,",Julie
+1,1,he,m,Match,"When he was off work, the",guy
+1,1,she,m,Mismatch,"When she was off work,",Kenneth
+1,1,she,f,Match,"When she was off work,",Leslie
+1,1,he,f,Mismatch,"When he was off work,",Jane
+2,1,he,m,Match,"When he arrived, the",husband
+2,1,she,m,Mismatch,"When she arrived,",Martin
+2,1,she,f,Match,"When she arrived,",Erin
+2,1,he,f,Mismatch,"When he arrived,",Paula
+3,1,he,m,Match,"When he was fed up, the",grandson
+3,1,she,m,Mismatch,"When she was fed up,",Phillip
+3,1,she,f,Match,"When she was fed up,",Stacy
+3,1,he,f,Mismatch,"When he was fed up,",Diana
+4,1,he,m,Match,"When he was talking,",Ronald
+4,1,she,m,Mismatch,"When she was talking,",Aaron
+4,1,she,f,Match,"When she was talking,",Alice
+4,1,he,f,Mismatch,"When he was talking,",Mary
+5,1,he,m,Match,"When he was nearby,",Travis
+5,1,she,m,Mismatch,"When she was nearby,",George
+5,1,she,f,Match,"When she was nearby, the",grandmother
+5,1,he,f,Mismatch,"When he was nearby,",Emily
+6,1,he,m,Match,"When he was lost,",Theodore
+6,1,she,m,Mismatch,"When she was lost,",Gary
+6,1,she,f,Match,"When she was lost,",Jane
+6,1,he,f,Mismatch,"When he was lost,",Ellen
+7,1,he,m,Match,"When he was bad-tempered,",Mitchell
+7,1,she,m,Mismatch,"When she was bad-tempered,",Peter
+7,1,she,f,Match,"When she was bad-tempered,",Ruth
+7,1,he,f,Mismatch,"When he was bad-tempered,",Susan
+8,1,he,m,Match,"When he was jealous,",Adam
+8,1,she,m,Mismatch,"When she was jealous,",Gerald
+8,1,she,f,Match,"When she was jealous, the",actress
+8,1,he,f,Mismatch,"When he was jealous,",Danielle
+9,1,he,m,Match,"When he was in residence,",Raymond
+9,1,she,m,Mismatch,"When she was in residence,",Curtis
+9,1,she,f,Match,"When she was in residence,",Tara
+9,1,he,f,Mismatch,"When he was in residence,",Jane
+10,1,he,m,Match,"When he was introduced,",Paul
+10,1,she,m,Mismatch,"When she was introduced,",Travis
+10,1,she,f,Match,"When she was introduced,",Caroline
+10,1,he,f,Mismatch,"When he was introduced,",Rachel
+11,1,he,m,Match,"When he arrived,",Jason
+11,1,she,m,Mismatch,"When she arrived,",Curtis
+11,1,she,f,Match,"When she arrived,",Samantha
+11,1,he,f,Mismatch,"When he arrived,",Grace
+12,1,he,m,Match,"When he felt sad,",Kenneth
+12,1,she,m,Mismatch,"When she felt sad, the",boy
+12,1,she,f,Match,"When she felt sad,",Sandra
+12,1,he,f,Mismatch,"When he felt sad,",Mary
+13,1,he,m,Match,"When he was present,",Aaron
+13,1,she,m,Mismatch,"When she was present,",Jerry
+13,1,she,f,Match,"When she was present,",Donna
+13,1,he,f,Mismatch,"When he was present,",Erin
+14,1,he,m,Match,"When he was depressed, the",grandson
+14,1,she,m,Mismatch,"When she was depressed,",Christopher
+14,1,she,f,Match,"When she was depressed,",Gina
+14,1,he,f,Mismatch,"When he was depressed,",Sonia
+15,1,he,m,Match,"When he was around,",Bill
+15,1,she,m,Mismatch,"When she was around,",Eric
+15,1,she,f,Match,"When she was around,",Tara
+15,1,he,f,Mismatch,"When he was around,",Nicole
+16,1,he,m,Match,"When he was near,",Mark
+16,1,she,m,Mismatch,"When she was near,",Keith
+16,1,she,f,Match,"When she was near,",Sonia
+16,1,he,f,Mismatch,"When he was near,",Kathleen
+17,1,he,m,Match,"When he was in court,",Curtis
+17,1,she,m,Mismatch,"When she was in court,",Gary
+17,1,she,f,Match,"When she was in court, the",granddaughter
+17,1,he,f,Mismatch,"When he was in court,",Erin
+18,1,he,m,Match,"When he was poorly, the",brother
+18,1,she,m,Mismatch,"When she was poorly,",Todd
+18,1,she,f,Match,"When she was poorly,",Anna
+18,1,he,f,Mismatch,"When he was poorly,",Meredith
+19,1,he,m,Match,"When he arrived,",Bill
+19,1,she,m,Mismatch,"When she arrived,",Bill
+19,1,she,f,Match,"When she arrived,",Erin
+19,1,he,f,Mismatch,"When he arrived,",Anne
+20,1,he,m,Match,"When he was appointed,",Carlos
+20,1,she,m,Mismatch,"When she was appointed,",Travis
+20,1,she,f,Match,"When she was appointed, the",lady
+20,1,he,f,Mismatch,"When he was appointed,",Rachel
+21,1,he,m,Match,"When he was fired,",Phillip
+21,1,she,m,Mismatch,"When she was fired,",Andrew
+21,1,she,f,Match,"When she was fired,",Kathleen
+21,1,he,f,Mismatch,"When he was fired,",Diana
+22,1,he,m,Match,"When he was close,",Kevin
+22,1,she,m,Mismatch,"When she was close,",Adam
+22,1,she,f,Match,"When she was close,",Susan
+22,1,he,f,Mismatch,"When he was close,",Monica
+23,1,he,m,Match,"When he was retired,",Andrew
+23,1,she,m,Mismatch,"When she was retired,",Dennis
+23,1,she,f,Match,"When she was retired, the",lady
+23,1,he,f,Mismatch,"When he was retired,",Martha
+24,1,he,m,Match,"When he was abroad, the",boy
+24,1,she,m,Mismatch,"When she was abroad,",Jerry
+24,1,she,f,Match,"When she was abroad,",Wendy
+24,1,he,f,Mismatch,"When he was abroad,",Erin
+25,1,he,m,Match,"When he was discovered,",Steven
+25,1,she,m,Mismatch,"When she was discovered,",George
+25,1,she,f,Match,"When she was discovered,",Susan
+25,1,he,f,Mismatch,"When he was discovered,",Valerie
+26,1,he,m,Match,"When he was busy,",Alan
+26,1,she,m,Mismatch,"When she was busy,",Daniel
+26,1,she,f,Match,"When she was busy, the",granddaughter
+26,1,he,f,Mismatch,"When he was busy,",Ruth
+27,1,he,m,Match,"When he was twenty-one, the",boyfriend
+27,1,she,m,Mismatch,"When she was twenty-one,",Eric
+27,1,she,f,Match,"When she was twenty-one,",Barbara
+27,1,he,f,Mismatch,"When he was twenty-one,",Alice
+28,1,he,m,Match,"When he was annoyed,",Vincent
+28,1,she,m,Mismatch,"When she was annoyed,",Ronald
+28,1,she,f,Match,"When she was annoyed,",Barbara
+28,1,he,f,Mismatch,"When he was annoyed, the",granddaughter
+29,1,he,m,Match,"When he was in church, the",brother
+29,1,she,m,Mismatch,"When she was in church,",Ronald
+29,1,she,f,Match,"When she was in church,",Victoria
+29,1,he,f,Mismatch,"When he was in church, the",granddaughter
+30,1,he,m,Match,"When he was banished,",Bill
+30,1,she,m,Mismatch,"When she was banished,",Jeffrey
+30,1,she,f,Match,"When she was banished,",Susan
+30,1,he,f,Mismatch,"When he was banished,",Ellen
+31,1,he,m,Match,"When he was angry,",Todd
+31,1,she,m,Mismatch,"When she was angry,",William
+31,1,she,f,Match,"When she was angry,",Jessica
+31,1,he,f,Mismatch,"When he was angry,",Connie
+32,1,he,m,Match,"When he was distraught,",Travis
+32,1,she,m,Mismatch,"When she was distraught,",Eric
+32,1,she,f,Match,"When she was distraught,",Diana
+32,1,he,f,Mismatch,"When he was distraught,",Laurie
+1,1,he,m,Match,"When he was off work,",Mitchell
+1,1,she,m,Mismatch,"When she was off work,",Jerry
+1,1,she,f,Match,"When she was off work,",Alice
+1,1,he,f,Mismatch,"When he was off work,",Paula
+2,1,he,m,Match,"When he arrived, the",brother
+2,1,she,m,Mismatch,"When she arrived,",Frank
+2,1,she,f,Match,"When she arrived,",Barbara
+2,1,he,f,Mismatch,"When he arrived, the",grandmother
+3,1,he,m,Match,"When he was fed up,",Kenneth
+3,1,she,m,Mismatch,"When she was fed up,",Kenneth
+3,1,she,f,Match,"When she was fed up,",Andrea
+3,1,he,f,Mismatch,"When he was fed up,",Laurie
+4,1,he,m,Match,"When he was talking,",Jeffrey
+4,1,she,m,Mismatch,"When she was talking,",Adam
+4,1,she,f,Match,"When she was talking,",Anna
+4,1,he,f,Mismatch,"When he was talking,",Anne
+5,1,he,m,Match,"When he was nearby,",Theodore
+5,1,she,m,Mismatch,"When she was nearby, the",brother
+5,1,she,f,Match,"When she was nearby,",Katherine
+5,1,he,f,Mismatch,"When he was nearby,",Rebecca
+6,1,he,m,Match,"When he was lost,",Jerry
+6,1,she,m,Mismatch,"When she was lost,",Bill
+6,1,she,f,Match,"When she was lost,",Valerie
+6,1,he,f,Mismatch,"When he was lost,",April
+7,1,he,m,Match,"When he was bad-tempered, the",brother
+7,1,she,m,Mismatch,"When she was bad-tempered,",Lawrence
+7,1,she,f,Match,"When she was bad-tempered,",Barbara
+7,1,he,f,Mismatch,"When he was bad-tempered,",Sonia
+8,1,he,m,Match,"When he was jealous,",Todd
+8,1,she,m,Mismatch,"When she was jealous,",Craig
+8,1,she,f,Match,"When she was jealous,",Monica
+8,1,he,f,Mismatch,"When he was jealous,",Wendy
+9,1,he,m,Match,"When he was in residence,",Lawrence
+9,1,she,m,Mismatch,"When she was in residence,",Alan
+9,1,she,f,Match,"When she was in residence, the",grandmother
+9,1,he,f,Mismatch,"When he was in residence,",Paula
+10,1,he,m,Match,"When he was introduced,",Roger
+10,1,she,m,Mismatch,"When she was introduced,",Kenneth
+10,1,she,f,Match,"When she was introduced,",Jessica
+10,1,he,f,Mismatch,"When he was introduced, the",waitress
+11,1,he,m,Match,"When he arrived,",Frank
+11,1,she,m,Mismatch,"When she arrived,",Alan
+11,1,she,f,Match,"When she arrived,",Allison
+11,1,he,f,Mismatch,"When he arrived,",Victoria
+12,1,he,m,Match,"When he felt sad,",Paul
+12,1,she,m,Mismatch,"When she felt sad, the",husband
+12,1,she,f,Match,"When she felt sad,",Jane
+12,1,he,f,Mismatch,"When he felt sad,",Grace
+13,1,he,m,Match,"When he was present,",Gary
+13,1,she,m,Mismatch,"When she was present,",Gary
+13,1,she,f,Match,"When she was present,",Victoria
+13,1,he,f,Mismatch,"When he was present,",Laurie
+14,1,he,m,Match,"When he was depressed,",Gary
+14,1,she,m,Mismatch,"When she was depressed,",Dan
+14,1,she,f,Match,"When she was depressed,",Valerie
+14,1,he,f,Mismatch,"When he was depressed, the",actress
+15,1,he,m,Match,"When he was around,",Alan
+15,1,she,m,Mismatch,"When she was around,",Mitchell
+15,1,she,f,Match,"When she was around,",Melanie
+15,1,he,f,Mismatch,"When he was around,",Natalie
+16,1,he,m,Match,"When he was near,",Carlos
+16,1,she,m,Mismatch,"When she was near,",Ronald
+16,1,she,f,Match,"When she was near,",Laurie
+16,1,he,f,Mismatch,"When he was near,",Heidi
+17,1,he,m,Match,"When he was in court, the",husband
+17,1,she,m,Mismatch,"When she was in court,",George
+17,1,she,f,Match,"When she was in court,",Veronica
+17,1,he,f,Mismatch,"When he was in court,",Gina
+18,1,he,m,Match,"When he was poorly, the",boyfriend
+18,1,she,m,Mismatch,"When she was poorly,",Gary
+18,1,she,f,Match,"When she was poorly,",Samantha
+18,1,he,f,Mismatch,"When he was poorly,",Florence
+19,1,he,m,Match,"When he arrived,",George
+19,1,she,m,Mismatch,"When she arrived,",Stephen
+19,1,she,f,Match,"When she arrived,",Carolyn
+19,1,he,f,Mismatch,"When he arrived,",Tiffany
+20,1,he,m,Match,"When he was appointed,",William
+20,1,she,m,Mismatch,"When she was appointed, the",grandson
+20,1,she,f,Match,"When she was appointed,",Victoria
+20,1,he,f,Mismatch,"When he was appointed,",Ellen
+21,1,he,m,Match,"When he was fired,",Bill
+21,1,she,m,Mismatch,"When she was fired,",Adam
+21,1,she,f,Match,"When she was fired,",Martha
+21,1,he,f,Mismatch,"When he was fired,",Susan
+22,1,he,m,Match,"When he was close,",Paul
+22,1,she,m,Mismatch,"When she was close,",Todd
+22,1,she,f,Match,"When she was close,",Ruth
+22,1,he,f,Mismatch,"When he was close,",Jessica
+23,1,he,m,Match,"When he was retired,",Omar
+23,1,she,m,Mismatch,"When she was retired,",Theodore
+23,1,she,f,Match,"When she was retired,",Florence
+23,1,he,f,Mismatch,"When he was retired,",Katherine
+24,1,he,m,Match,"When he was abroad,",Kenneth
+24,1,she,m,Mismatch,"When she was abroad,",Curtis
+24,1,she,f,Match,"When she was abroad,",Diana
+24,1,he,f,Mismatch,"When he was abroad,",Caroline
+25,1,he,m,Match,"When he was discovered,",Paul
+25,1,she,m,Mismatch,"When she was discovered, the",brother
+25,1,she,f,Match,"When she was discovered,",Heidi
+25,1,he,f,Mismatch,"When he was discovered,",Carolyn
+26,1,he,m,Match,"When he was busy, the",brother
+26,1,she,m,Mismatch,"When she was busy,",Roger
+26,1,she,f,Match,"When she was busy,",Ruth
+26,1,he,f,Mismatch,"When he was busy,",Patricia
+27,1,he,m,Match,"When he was twenty-one,",Derek
+27,1,she,m,Mismatch,"When she was twenty-one,",Gary
+27,1,she,f,Match,"When she was twenty-one,",Caroline
+27,1,he,f,Mismatch,"When he was twenty-one,",Julia
+28,1,he,m,Match,"When he was annoyed,",Bill
+28,1,she,m,Mismatch,"When she was annoyed,",Omar
+28,1,she,f,Match,"When she was annoyed,",Laurie
+28,1,he,f,Mismatch,"When he was annoyed,",Laurie
+29,1,he,m,Match,"When he was in church,",Derek
+29,1,she,m,Mismatch,"When she was in church,",Douglas
+29,1,she,f,Match,"When she was in church,",Sonia
+29,1,he,f,Mismatch,"When he was in church,",Valerie
+30,1,he,m,Match,"When he was banished,",Alan
+30,1,she,m,Mismatch,"When she was banished,",Derek
+30,1,she,f,Match,"When she was banished,",Erin
+30,1,he,f,Mismatch,"When he was banished,",Sonia
+31,1,he,m,Match,"When he was angry,",Daniel
+31,1,she,m,Mismatch,"When she was angry,",Todd
+31,1,she,f,Match,"When she was angry,",Erin
+31,1,he,f,Mismatch,"When he was angry,",Julia
+32,1,he,m,Match,"When he was distraught,",Paul
+32,1,she,m,Mismatch,"When she was distraught, the",boy
+32,1,she,f,Match,"When she was distraught,",Heidi
+32,1,he,f,Mismatch,"When he was distraught,",Barbara
+1,1,he,m,Match,"When he was off work,",Joel
+1,1,she,m,Mismatch,"When she was off work,",Alan
+1,1,she,f,Match,"When she was off work,",Rebecca
+1,1,he,f,Mismatch,"When he was off work,",Stacy
+2,1,he,m,Match,"When he arrived,",Raymond
+2,1,she,m,Mismatch,"When she arrived,",Mitchell
+2,1,she,f,Match,"When she arrived,",Samantha
+2,1,he,f,Mismatch,"When he arrived,",Lisa
+3,1,he,m,Match,"When he was fed up, the",boy
+3,1,she,m,Mismatch,"When she was fed up,",Daniel
+3,1,she,f,Match,"When she was fed up,",Lisa
+3,1,he,f,Mismatch,"When he was fed up,",Jessica
+4,1,he,m,Match,"When he was talking,",Carlos
+4,1,she,m,Mismatch,"When she was talking,",Peter
+4,1,she,f,Match,"When she was talking,",Diana
+4,1,he,f,Mismatch,"When he was talking, the",lady
+5,1,he,m,Match,"When he was nearby,",Stephen
+5,1,she,m,Mismatch,"When she was nearby,",Peter
+5,1,she,f,Match,"When she was nearby, the",daughter
+5,1,he,f,Mismatch,"When he was nearby,",Katherine
+6,1,he,m,Match,"When he was lost,",Walter
+6,1,she,m,Mismatch,"When she was lost, the",boyfriend
+6,1,she,f,Match,"When she was lost,",Jessica
+6,1,he,f,Mismatch,"When he was lost,",Paula
+7,1,he,m,Match,"When he was bad-tempered,",Daniel
+7,1,she,m,Mismatch,"When she was bad-tempered,",James
+7,1,she,f,Match,"When she was bad-tempered,",Sarah
+7,1,he,f,Mismatch,"When he was bad-tempered, the",actress
+8,1,he,m,Match,"When he was jealous,",Alan
+8,1,she,m,Mismatch,"When she was jealous,",Matt
+8,1,she,f,Match,"When she was jealous,",Amy
+8,1,he,f,Mismatch,"When he was jealous,",Rachel
+9,1,he,m,Match,"When he was in residence,",Craig
+9,1,she,m,Mismatch,"When she was in residence,",Stephen
+9,1,she,f,Match,"When she was in residence,",Heidi
+9,1,he,f,Mismatch,"When he was in residence, the",grandmother
+10,1,he,m,Match,"When he was introduced,",Martin
+10,1,she,m,Mismatch,"When she was introduced,",Curtis
+10,1,she,f,Match,"When she was introduced,",Heather
+10,1,he,f,Mismatch,"When he was introduced,",Lisa
+11,1,he,m,Match,"When he arrived,",Mitchell
+11,1,she,m,Mismatch,"When she arrived,",Peter
+11,1,she,f,Match,"When she arrived,",Eva
+11,1,he,f,Mismatch,"When he arrived,",Valerie
+12,1,he,m,Match,"When he felt sad,",Bill
+12,1,she,m,Mismatch,"When she felt sad,",Derek
+12,1,she,f,Match,"When she felt sad,",Jennifer
+12,1,he,f,Mismatch,"When he felt sad,",Veronica
+13,1,he,m,Match,"When he was present,",Bill
+13,1,she,m,Mismatch,"When she was present,",Michael
+13,1,she,f,Match,"When she was present,",Laurie
+13,1,he,f,Mismatch,"When he was present,",Ruth
+14,1,he,m,Match,"When he was depressed,",Stephen
+14,1,she,m,Mismatch,"When she was depressed,",Curtis
+14,1,she,f,Match,"When she was depressed, the",actress
+14,1,he,f,Mismatch,"When he was depressed,",Cindy
+15,1,he,m,Match,"When he was around,",Lawrence
+15,1,she,m,Mismatch,"When she was around,",Adam
+15,1,she,f,Match,"When she was around,",Donna
+15,1,he,f,Mismatch,"When he was around,",Tara
+16,1,he,m,Match,"When he was near,",Craig
+16,1,she,m,Mismatch,"When she was near,",Frank
+16,1,she,f,Match,"When she was near, the",actress
+16,1,he,f,Mismatch,"When he was near,",Donna
+17,1,he,m,Match,"When he was in court,",Gerald
+17,1,she,m,Mismatch,"When she was in court,",Daniel
+17,1,she,f,Match,"When she was in court,",Tara
+17,1,he,f,Mismatch,"When he was in court,",Monica
+18,1,he,m,Match,"When he was poorly,",Matt
+18,1,she,m,Mismatch,"When she was poorly,",Peter
+18,1,she,f,Match,"When she was poorly,",Stacy
+18,1,he,f,Mismatch,"When he was poorly,",Sonia
+19,1,he,m,Match,"When he arrived, the",brother
+19,1,she,m,Mismatch,"When she arrived,",Martin
+19,1,she,f,Match,"When she arrived,",Allison
+19,1,he,f,Mismatch,"When he arrived,",Leslie
+20,1,he,m,Match,"When he was appointed,",Gary
+20,1,she,m,Mismatch,"When she was appointed,",Curtis
+20,1,she,f,Match,"When she was appointed,",Katherine
+20,1,he,f,Mismatch,"When he was appointed,",Paula
+21,1,he,m,Match,"When he was fired, the",brother
+21,1,she,m,Mismatch,"When she was fired,",Gary
+21,1,she,f,Match,"When she was fired,",Samantha
+21,1,he,f,Mismatch,"When he was fired,",Rebecca
+22,1,he,m,Match,"When he was close, the",husband
+22,1,she,m,Mismatch,"When she was close,",William
+22,1,she,f,Match,"When she was close,",Barbara
+22,1,he,f,Mismatch,"When he was close,",Sandra
+23,1,he,m,Match,"When he was retired,",Curtis
+23,1,she,m,Mismatch,"When she was retired,",Daniel
+23,1,she,f,Match,"When she was retired,",Tara
+23,1,he,f,Mismatch,"When he was retired,",Donna
+24,1,he,m,Match,"When he was abroad,",Roger
+24,1,she,m,Mismatch,"When she was abroad,",George
+24,1,she,f,Match,"When she was abroad,",April
+24,1,he,f,Mismatch,"When he was abroad,",Katherine
+25,1,he,m,Match,"When he was discovered, the",man
+25,1,she,m,Mismatch,"When she was discovered,",Peter
+25,1,she,f,Match,"When she was discovered,",Heather
+25,1,he,f,Mismatch,"When he was discovered,",Jessica
+26,1,he,m,Match,"When he was busy,",Raymond
+26,1,she,m,Mismatch,"When she was busy,",Stephen
+26,1,she,f,Match,"When she was busy,",Allison
+26,1,he,f,Mismatch,"When he was busy,",Barbara
+27,1,he,m,Match,"When he was twenty-one,",Lawrence
+27,1,she,m,Mismatch,"When she was twenty-one, the",husband
+27,1,she,f,Match,"When she was twenty-one,",Jessica
+27,1,he,f,Mismatch,"When he was twenty-one,",Pamela
+28,1,he,m,Match,"When he was annoyed,",Michael
+28,1,she,m,Mismatch,"When she was annoyed,",Peter
+28,1,she,f,Match,"When she was annoyed,",Andrea
+28,1,he,f,Mismatch,"When he was annoyed,",Nina
+29,1,he,m,Match,"When he was in church,",Gerald
+29,1,she,m,Mismatch,"When she was in church,",Frank
+29,1,she,f,Match,"When she was in church,",Martha
+29,1,he,f,Mismatch,"When he was in church, the",grandmother
+30,1,he,m,Match,"When he was banished, the",boyfriend
+30,1,she,m,Mismatch,"When she was banished,",Roger
+30,1,she,f,Match,"When she was banished,",Elaine
+30,1,he,f,Mismatch,"When he was banished,",Erin
+31,1,he,m,Match,"When he was angry,",Roger
+31,1,she,m,Mismatch,"When she was angry,",Walter
+31,1,she,f,Match,"When she was angry,",Allison
+31,1,he,f,Mismatch,"When he was angry,",Ellen
+32,1,he,m,Match,"When he was distraught,",Curtis
+32,1,she,m,Mismatch,"When she was distraught,",Raymond
+32,1,she,f,Match,"When she was distraught,",Allison
+32,1,he,f,Mismatch,"When he was distraught,",Heidi
+1,1,he,m,Match,"When he was off work,",Gary
+1,1,she,m,Mismatch,"When she was off work, the",boyfriend
+1,1,she,f,Match,"When she was off work,",Jennifer
+1,1,he,f,Mismatch,"When he was off work,",Andrea
+2,1,he,m,Match,"When he arrived,",Martin
+2,1,she,m,Mismatch,"When she arrived, the",man
+2,1,she,f,Match,"When she arrived,",Katherine
+2,1,he,f,Mismatch,"When he arrived,",Jennifer
+3,1,he,m,Match,"When he was fed up,",Martin
+3,1,she,m,Mismatch,"When she was fed up,",Lawrence
+3,1,she,f,Match,"When she was fed up,",Theresa
+3,1,he,f,Mismatch,"When he was fed up,",Martha
+4,1,he,m,Match,"When he was talking,",Vincent
+4,1,she,m,Mismatch,"When she was talking,",Michael
+4,1,she,f,Match,"When she was talking,",Cindy
+4,1,he,f,Mismatch,"When he was talking,",Valerie
+5,1,he,m,Match,"When he was nearby,",Martin
+5,1,she,m,Mismatch,"When she was nearby,",Martin
+5,1,she,f,Match,"When she was nearby,",Martha
+5,1,he,f,Mismatch,"When he was nearby,",Eva
+6,1,he,m,Match,"When he was lost,",James
+6,1,she,m,Mismatch,"When she was lost,",Peter
+6,1,she,f,Match,"When she was lost,",Patricia
+6,1,he,f,Mismatch,"When he was lost,",Sara
+7,1,he,m,Match,"When he was bad-tempered,",Gerald
+7,1,she,m,Mismatch,"When she was bad-tempered,",Carl
+7,1,she,f,Match,"When she was bad-tempered,",Sara
+7,1,he,f,Mismatch,"When he was bad-tempered,",Elaine
+8,1,he,m,Match,"When he was jealous,",Roger
+8,1,she,m,Mismatch,"When she was jealous,",Carl
+8,1,she,f,Match,"When she was jealous, the",daughter
+8,1,he,f,Mismatch,"When he was jealous,",Ruth
+9,1,he,m,Match,"When he was in residence,",Vincent
+9,1,she,m,Mismatch,"When she was in residence, the",grandfather
+9,1,she,f,Match,"When she was in residence, the",niece
+9,1,he,f,Mismatch,"When he was in residence,",Heidi
+10,1,he,m,Match,"When he was introduced,",Michael
+10,1,she,m,Mismatch,"When she was introduced, the",boyfriend
+10,1,she,f,Match,"When she was introduced,",Sara
+10,1,he,f,Mismatch,"When he was introduced,",Margaret
+11,1,he,m,Match,"When he arrived,",Jerry
+11,1,she,m,Mismatch,"When she arrived,",Michael
+11,1,she,f,Match,"When she arrived, the",daughter
+11,1,he,f,Mismatch,"When he arrived,",Carolyn
+12,1,he,m,Match,"When he felt sad,",Gerald
+12,1,she,m,Mismatch,"When she felt sad,",Peter
+12,1,she,f,Match,"When she felt sad,",Diane
+12,1,he,f,Mismatch,"When he felt sad,",Barbara
+13,1,he,m,Match,"When he was present,",Michael
+13,1,she,m,Mismatch,"When she was present,",James
+13,1,she,f,Match,"When she was present,",Rebecca
+13,1,he,f,Mismatch,"When he was present,",Monica
+14,1,he,m,Match,"When he was depressed,",Gregory
+14,1,she,m,Mismatch,"When she was depressed,",Derek
+14,1,she,f,Match,"When she was depressed,",Heidi
+14,1,he,f,Mismatch,"When he was depressed,",Heather
+15,1,he,m,Match,"When he was around,",Matt
+15,1,she,m,Mismatch,"When she was around,",Paul
+15,1,she,f,Match,"When she was around, the",niece
+15,1,he,f,Mismatch,"When he was around,",Ruth
+16,1,he,m,Match,"When he was near, the",grandfather
+16,1,she,m,Mismatch,"When she was near,",Theodore
+16,1,she,f,Match,"When she was near,",Margaret
+16,1,he,f,Mismatch,"When he was near,",Theresa
+17,1,he,m,Match,"When he was in court,",Walter
+17,1,she,m,Mismatch,"When she was in court,",Patrick
+17,1,she,f,Match,"When she was in court,",Gina
+17,1,he,f,Mismatch,"When he was in court,",Lisa
+18,1,he,m,Match,"When he was poorly,",Scott
+18,1,she,m,Mismatch,"When she was poorly,",Craig
+18,1,she,f,Match,"When she was poorly,",Lisa
+18,1,he,f,Mismatch,"When he was poorly,",Patricia
+19,1,he,m,Match,"When he arrived,",Lawrence
+19,1,she,m,Mismatch,"When she arrived,",Matt
+19,1,she,f,Match,"When she arrived,",Melissa
+19,1,he,f,Mismatch,"When he arrived,",Emily
+20,1,he,m,Match,"When he was appointed,",Peter
+20,1,she,m,Mismatch,"When she was appointed, the",boyfriend
+20,1,she,f,Match,"When she was appointed,",Nina
+20,1,he,f,Mismatch,"When he was appointed,",Stacy
+21,1,he,m,Match,"When he was fired, the",boyfriend
+21,1,she,m,Mismatch,"When she was fired,",Raymond
+21,1,she,f,Match,"When she was fired,",Theresa
+21,1,he,f,Mismatch,"When he was fired,",Eva
+22,1,he,m,Match,"When he was close,",Stephen
+22,1,she,m,Mismatch,"When she was close, the",brother
+22,1,she,f,Match,"When she was close,",Heidi
+22,1,he,f,Mismatch,"When he was close,",Melissa
+23,1,he,m,Match,"When he was retired, the",grandfather
+23,1,she,m,Mismatch,"When she was retired, the",boyfriend
+23,1,she,f,Match,"When she was retired,",Stacy
+23,1,he,f,Mismatch,"When he was retired, the",daughter
+24,1,he,m,Match,"When he was abroad,",Raymond
+24,1,she,m,Mismatch,"When she was abroad,",Lawrence
+24,1,she,f,Match,"When she was abroad,",Holly
+24,1,he,f,Mismatch,"When he was abroad, the",niece
+25,1,he,m,Match,"When he was discovered,",Patrick
+25,1,she,m,Mismatch,"When she was discovered,",Gregory
+25,1,she,f,Match,"When she was discovered,",Margaret
+25,1,he,f,Mismatch,"When he was discovered,",Theresa
+26,1,he,m,Match,"When he was busy,",Robert
+26,1,she,m,Mismatch,"When she was busy,",Craig
+26,1,she,f,Match,"When she was busy,",Diane
+26,1,he,f,Mismatch,"When he was busy,",Stacy
+27,1,he,m,Match,"When he was twenty-one,",James
+27,1,she,m,Mismatch,"When she was twenty-one,",Stephen
+27,1,she,f,Match,"When she was twenty-one,",Eva
+27,1,he,f,Mismatch,"When he was twenty-one,",Wendy
+28,1,he,m,Match,"When he was annoyed, the",grandfather
+28,1,she,m,Mismatch,"When she was annoyed,",Walter
+28,1,she,f,Match,"When she was annoyed,",Nina
+28,1,he,f,Mismatch,"When he was annoyed,",Theresa
+29,1,he,m,Match,"When he was in church,",Matt
+29,1,she,m,Mismatch,"When she was in church,",Lawrence
+29,1,she,f,Match,"When she was in church,",Amy
+29,1,he,f,Mismatch,"When he was in church,",Carmen
+30,1,he,m,Match,"When he was banished,",Matt
+30,1,she,m,Mismatch,"When she was banished,",Patrick
+30,1,she,f,Match,"When she was banished,",Paula
+30,1,he,f,Mismatch,"When he was banished,",Rebecca
+31,1,he,m,Match,"When he was angry,",Peter
+31,1,she,m,Mismatch,"When she was angry,",Craig
+31,1,she,f,Match,"When she was angry,",Eva
+31,1,he,f,Mismatch,"When he was angry,",Amy
+32,1,he,m,Match,"When he was distraught,",Alan
+32,1,she,m,Mismatch,"When she was distraught,",Martin
+32,1,she,f,Match,"When she was distraught,",Jennifer
+32,1,he,f,Mismatch,"When he was distraught,",Jessica
+1,1,he,m,Match,"When he was off work,",Rodney
+1,1,she,m,Mismatch,"When she was off work,",James
+1,1,she,f,Match,"When she was off work,",Diane
+1,1,he,f,Mismatch,"When he was off work,",Gina
+2,1,he,m,Match,"When he arrived,",Matt
+2,1,she,m,Mismatch,"When she arrived,",Walter
+2,1,she,f,Match,"When she arrived,",Theresa
+2,1,he,f,Mismatch,"When he arrived,",Rose
+3,1,he,m,Match,"When he was fed up,",Michael
+3,1,she,m,Mismatch,"When she was fed up,",Robert
+3,1,she,f,Match,"When she was fed up,",Heather
+3,1,he,f,Mismatch,"When he was fed up,",Brenda
+4,1,he,m,Match,"When he was talking, the",son
+4,1,she,m,Mismatch,"When she was talking,",Carl
+4,1,she,f,Match,"When she was talking,",Jennifer
+4,1,he,f,Mismatch,"When he was talking, the",grandmother
+5,1,he,m,Match,"When he was nearby,",Marcus
+5,1,she,m,Mismatch,"When she was nearby,",Rodney
+5,1,she,f,Match,"When she was nearby,",Brenda
+5,1,he,f,Mismatch,"When he was nearby,",Sara
+6,1,he,m,Match,"When he was lost,",Matt
+6,1,she,m,Mismatch,"When she was lost,",Stephen
+6,1,she,f,Match,"When she was lost,",Dawn
+6,1,he,f,Mismatch,"When he was lost,",Nancy
+7,1,he,m,Match,"When he was bad-tempered,",Lawrence
+7,1,she,m,Mismatch,"When she was bad-tempered,",Robert
+7,1,she,f,Match,"When she was bad-tempered,",Martha
+7,1,he,f,Mismatch,"When he was bad-tempered,",Sandra
+8,1,he,m,Match,"When he was jealous,",Rodney
+8,1,she,m,Mismatch,"When she was jealous,",David
+8,1,she,f,Match,"When she was jealous,",Nancy
+8,1,he,f,Mismatch,"When he was jealous,",Brenda
+9,1,he,m,Match,"When he was in residence,",Rodney
+9,1,she,m,Mismatch,"When she was in residence,",David
+9,1,she,f,Match,"When she was in residence,",Michelle
+9,1,he,f,Mismatch,"When he was in residence,",Rose
+10,1,he,m,Match,"When he was introduced,",Vincent
+10,1,she,m,Mismatch,"When she was introduced,",Stephen
+10,1,she,f,Match,"When she was introduced,",Patricia
+10,1,he,f,Mismatch,"When he was introduced,",Brenda
+11,1,he,m,Match,"When he arrived,",Noah
+11,1,she,m,Mismatch,"When she arrived,",Carl
+11,1,she,f,Match,"When she arrived,",Michelle
+11,1,he,f,Mismatch,"When he arrived,",Martha
+12,1,he,m,Match,"When he felt sad,",Marcus
+12,1,she,m,Mismatch,"When she felt sad, the",son
+12,1,she,f,Match,"When she felt sad,",Martha
+12,1,he,f,Mismatch,"When he felt sad,",Brenda
+13,1,he,m,Match,"When he was present,",James
+13,1,she,m,Mismatch,"When she was present, the",son
+13,1,she,f,Match,"When she was present,",Jessica
+13,1,he,f,Mismatch,"When he was present,",Allison
+14,1,he,m,Match,"When he was depressed,",Rodney
+14,1,she,m,Mismatch,"When she was depressed,",Robert
+14,1,she,f,Match,"When she was depressed,",Melissa
+14,1,he,f,Mismatch,"When he was depressed,",Brenda
+15,1,he,m,Match,"When he was around,",Marcus
+15,1,she,m,Mismatch,"When she was around,",Alan
+15,1,she,f,Match,"When she was around,",Dawn
+15,1,he,f,Mismatch,"When he was around,",Allison
+16,1,he,m,Match,"When he was near,",Carl
+16,1,she,m,Mismatch,"When she was near,",Vincent
+16,1,she,f,Match,"When she was near,",Brenda
+16,1,he,f,Mismatch,"When he was near,",Amy
+17,1,he,m,Match,"When he was in court,",Robert
+17,1,she,m,Mismatch,"When she was in court,",Carl
+17,1,she,f,Match,"When she was in court,",Sara
+17,1,he,f,Mismatch,"When he was in court,",Sarah
+18,1,he,m,Match,"When he was poorly,",Noah
+18,1,she,m,Mismatch,"When she was poorly, the",grandfather
+18,1,she,f,Match,"When she was poorly,",Heather
+18,1,he,f,Mismatch,"When he was poorly,",Brenda
+19,1,he,m,Match,"When he arrived, the",grandfather
+19,1,she,m,Mismatch,"When she arrived,",Marcus
+19,1,she,f,Match,"When she arrived,",Nina
+19,1,he,f,Mismatch,"When he arrived,",Diane
+20,1,he,m,Match,"When he was appointed,",Stephen
+20,1,she,m,Mismatch,"When she was appointed,",Craig
+20,1,she,f,Match,"When she was appointed,",Jennifer
+20,1,he,f,Mismatch,"When he was appointed,",Carolyn
+21,1,he,m,Match,"When he was fired,",Matt
+21,1,she,m,Mismatch,"When she was fired,",Martin
+21,1,she,f,Match,"When she was fired,",Patricia
+21,1,he,f,Mismatch,"When he was fired,",Nancy
+22,1,he,m,Match,"When he was close,",David
+22,1,she,m,Mismatch,"When she was close,",Michael
+22,1,she,f,Match,"When she was close,",Lisa
+22,1,he,f,Mismatch,"When he was close,",Heather
+23,1,he,m,Match,"When he was retired,",Rodney
+23,1,she,m,Mismatch,"When she was retired,",Michael
+23,1,she,f,Match,"When she was retired,",Amy
+23,1,he,f,Mismatch,"When he was retired,",Heather
+24,1,he,m,Match,"When he was abroad,",Noah
+24,1,she,m,Mismatch,"When she was abroad,",Craig
+24,1,she,f,Match,"When she was abroad,",Martha
+24,1,he,f,Mismatch,"When he was abroad,",Sandra
+25,1,he,m,Match,"When he was discovered,",Walter
+25,1,she,m,Mismatch,"When she was discovered,",Noah
+25,1,she,f,Match,"When she was discovered,",Patricia
+25,1,he,f,Mismatch,"When he was discovered,",Martha
+26,1,he,m,Match,"When he was busy,",Rodney
+26,1,she,m,Mismatch,"When she was busy, the",son
+26,1,she,f,Match,"When she was busy,",Nancy
+26,1,he,f,Mismatch,"When he was busy,",Heather
+27,1,he,m,Match,"When he was twenty-one,",Joel
+27,1,she,m,Mismatch,"When she was twenty-one,",Martin
+27,1,she,f,Match,"When she was twenty-one,",Sara
+27,1,he,f,Mismatch,"When he was twenty-one,",Jill
+28,1,he,m,Match,"When he was annoyed,",Carl
+28,1,she,m,Mismatch,"When she was annoyed,",Noah
+28,1,she,f,Match,"When she was annoyed, the",daughter
+28,1,he,f,Mismatch,"When he was annoyed,",Diane
+29,1,he,m,Match,"When he was in church,",Vincent
+29,1,she,m,Mismatch,"When she was in church,",Joel
+29,1,she,f,Match,"When she was in church,",Patricia
+29,1,he,f,Mismatch,"When he was in church,",Michelle
+30,1,he,m,Match,"When he was banished,",Noah
+30,1,she,m,Mismatch,"When she was banished,",Lawrence
+30,1,she,f,Match,"When she was banished,",Carmen
+30,1,he,f,Mismatch,"When he was banished,",Caroline
+31,1,he,m,Match,"When he was angry,",Raymond
+31,1,she,m,Mismatch,"When she was angry, the",son
+31,1,she,f,Match,"When she was angry,",Heather
+31,1,he,f,Mismatch,"When he was angry,",Michelle
+32,1,he,m,Match,"When he was distraught,",Gerald
+32,1,she,m,Mismatch,"When she was distraught, the",son
+32,1,she,f,Match,"When she was distraught,",Rebecca
+32,1,he,f,Mismatch,"When he was distraught,",Patricia

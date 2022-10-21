@@ -1,0 +1,1281 @@
+item,exp,pronoun,cond,contrast,sent,target,gpt3_surp
+1,1,he,m,Match,"When he was off work,",Richard,9.435239791870117
+1,1,she,m,Mismatch,"When she was off work,",Keith,15.300705909729004
+1,1,she,f,Match,"When she was off work, the",dancer,11.214481353759766
+1,1,he,f,Mismatch,"When he was off work,",Laura,16.189062118530273
+2,1,he,m,Match,"When he arrived,",Larry,13.38758659362793
+2,1,she,m,Mismatch,"When she arrived,",Wayne,14.980809211730957
+2,1,she,f,Match,"When she arrived,",Cheryl,14.229012489318848
+2,1,he,f,Mismatch,"When he arrived,",Teresa,15.785571098327637
+3,1,he,m,Match,"When he was fed up,",Guy,15.251947402954102
+3,1,she,m,Mismatch,"When she was fed up,",Joseph,14.26561450958252
+3,1,she,f,Match,"When she was fed up,",Cynthia,15.969842910766602
+3,1,he,f,Mismatch,"When he was fed up, the",wife,10.065674781799316
+4,1,he,m,Match,"When he was talking,",Joseph,13.00523853302002
+4,1,she,m,Mismatch,"When she was talking,",Bradley,16.85729217529297
+4,1,she,f,Match,"When she was talking,",Dana,15.48879337310791
+4,1,he,f,Mismatch,"When he was talking,",Janet,15.143558502197266
+5,1,he,m,Match,"When he was nearby,",Larry,14.626080513000488
+5,1,she,m,Mismatch,"When she was nearby,",Joseph,12.574211120605469
+5,1,she,f,Match,"When she was nearby, the",girl,6.8112359046936035
+5,1,he,f,Mismatch,"When he was nearby,",Helen,14.040757179260254
+6,1,he,m,Match,"When he was lost,",Donald,16.069263458251953
+6,1,she,m,Mismatch,"When she was lost,",Brad,17.052995681762695
+6,1,she,f,Match,"When she was lost,",Judy,17.55803871154785
+6,1,he,f,Mismatch,"When he was lost, the",dancer,16.963653564453125
+7,1,he,m,Match,"When he was bad-tempered,",Guy,16.206636428833008
+7,1,she,m,Mismatch,"When she was bad-tempered,",Bruce,17.676082611083984
+7,1,she,f,Match,"When she was bad-tempered, the",woman,7.393216133117676
+7,1,he,f,Mismatch,"When he was bad-tempered,",Ann,11.912677764892578
+8,1,he,m,Match,"When he was jealous, the",father,9.935569763183594
+8,1,she,m,Mismatch,"When she was jealous,",Steve,16.44036102294922
+8,1,she,f,Match,"When she was jealous,",Catherine,14.644763946533203
+8,1,he,f,Mismatch,"When he was jealous, the",dancer,16.149248123168945
+9,1,he,m,Match,"When he was in residence,",Dan,11.930953979492188
+9,1,she,m,Mismatch,"When she was in residence,",Russell,14.027495384216309
+9,1,she,f,Match,"When she was in residence, the",woman,9.14295768737793
+9,1,he,f,Mismatch,"When he was in residence, the",wife,12.129504203796387
+10,1,he,m,Match,"When he was introduced,",Wayne,12.435914039611816
+10,1,she,m,Mismatch,"When she was introduced,",Steve,13.452533721923828
+10,1,she,f,Match,"When she was introduced,",Sally,11.885506629943848
+10,1,he,f,Mismatch,"When he was introduced,",Teresa,16.733423233032227
+11,1,he,m,Match,"When he arrived,",Joseph,11.110207557678223
+11,1,she,m,Mismatch,"When she arrived,",Richard,12.191158294677734
+11,1,she,f,Match,"When she arrived,",Cheryl,14.236662864685059
+11,1,he,f,Mismatch,"When he arrived,",Janet,15.053305625915527
+12,1,he,m,Match,"When he felt sad,",Guy,15.330365180969238
+12,1,she,m,Mismatch,"When she felt sad,",Rodney,21.61957359313965
+12,1,she,f,Match,"When she felt sad,",Amanda,11.866495132446289
+12,1,he,f,Mismatch,"When he felt sad,",Sally,19.774124145507812
+13,1,he,m,Match,"When he was present,",Wayne,14.739713668823242
+13,1,she,m,Mismatch,"When she was present,",Larry,15.40831184387207
+13,1,she,f,Match,"When she was present,",Carrie,15.423742294311523
+13,1,he,f,Mismatch,"When he was present,",Lori,19.07098960876465
+14,1,he,m,Match,"When he was depressed,",Richard,11.577390670776367
+14,1,she,m,Mismatch,"When she was depressed,",Steve,14.298168182373047
+14,1,she,f,Match,"When she was depressed,",Cynthia,16.404903411865234
+14,1,he,f,Mismatch,"When he was depressed,",Amelia,19.324129104614258
+15,1,he,m,Match,"When he was around,",Brad,14.725747108459473
+15,1,she,m,Mismatch,"When she was around,",Wayne,15.483358383178711
+15,1,she,f,Match,"When she was around,",Marie,14.500371932983398
+15,1,he,f,Mismatch,"When he was around,",Dana,16.594148635864258
+16,1,he,m,Match,"When he was near,",Joseph,11.710594177246094
+16,1,she,m,Mismatch,"When she was near,",Richard,12.192137718200684
+16,1,she,f,Match,"When she was near,",Dana,16.664016723632812
+16,1,he,f,Mismatch,"When he was near,",Janet,15.562262535095215
+17,1,he,m,Match,"When he was in court,",Bradley,13.629000663757324
+17,1,she,m,Mismatch,"When she was in court,",Steve,15.064411163330078
+17,1,she,f,Match,"When she was in court, the",dancer,13.328343391418457
+17,1,he,f,Mismatch,"When he was in court,",Helen,16.429567337036133
+18,1,he,m,Match,"When he was poorly,",Keith,13.964794158935547
+18,1,she,m,Mismatch,"When she was poorly,",Steve,14.129841804504395
+18,1,she,f,Match,"When she was poorly,",Dana,16.507665634155273
+18,1,he,f,Mismatch,"When he was poorly,",Tracy,17.68885040283203
+19,1,he,m,Match,"When he arrived,",Charles,11.738466262817383
+19,1,she,m,Mismatch,"When she arrived,",Timothy,15.756754875183105
+19,1,she,f,Match,"When she arrived,",Janet,13.014226913452148
+19,1,he,f,Mismatch,"When he arrived,",Lori,17.39398765563965
+20,1,he,m,Match,"When he was appointed,",Benjamin,14.588690757751465
+20,1,she,m,Mismatch,"When she was appointed,",Larry,17.194278717041016
+20,1,she,f,Match,"When she was appointed,",Teresa,12.636772155761719
+20,1,he,f,Mismatch,"When he was appointed,",Tracy,16.268136978149414
+21,1,he,m,Match,"When he was fired,",Timothy,15.58935260772705
+21,1,she,m,Mismatch,"When she was fired,",Liam,19.7833194732666
+21,1,she,f,Match,"When she was fired,",Teresa,12.318794250488281
+21,1,he,f,Mismatch,"When he was fired,",Heidi,19.96809959411621
+22,1,he,m,Match,"When he was close, the",father,10.556802749633789
+22,1,she,m,Mismatch,"When she was close, the",father,11.423175811767578
+22,1,she,f,Match,"When she was close,",Carrie,14.189064025878906
+22,1,he,f,Mismatch,"When he was close,",Elizabeth,12.082609176635742
+23,1,he,m,Match,"When he was retired,",Steve,10.473381996154785
+23,1,she,m,Mismatch,"When she was retired,",Donald,14.986255645751953
+23,1,she,f,Match,"When she was retired,",Christina,16.05272102355957
+23,1,he,f,Mismatch,"When he was retired, the",dancer,15.85600471496582
+24,1,he,m,Match,"When he was abroad, the",guy,10.273576736450195
+24,1,she,m,Mismatch,"When she was abroad,",Larry,17.216527938842773
+24,1,she,f,Match,"When she was abroad,",Lori,15.325566291809082
+24,1,he,f,Mismatch,"When he was abroad,",Catherine,15.8040771484375
+25,1,he,m,Match,"When he was discovered,",Thomas,10.308175086975098
+25,1,she,m,Mismatch,"When she was discovered,",Donald,15.211177825927734
+25,1,she,f,Match,"When she was discovered,",Suzanne,13.5127534866333
+25,1,he,f,Mismatch,"When he was discovered,",Dana,17.237812042236328
+26,1,he,m,Match,"When he was busy, the",nephew,13.757047653198242
+26,1,she,m,Mismatch,"When she was busy,",Bruce,15.61796760559082
+26,1,she,f,Match,"When she was busy,",Lori,14.622633934020996
+26,1,he,f,Mismatch,"When he was busy,",Christina,18.65894317626953
+27,1,he,m,Match,"When he was twenty-one,",Brian,10.51598072052002
+27,1,she,m,Mismatch,"When she was twenty-one,",Brad,16.178573608398438
+27,1,she,f,Match,"When she was twenty-one,",Naomi,13.371071815490723
+27,1,he,f,Mismatch,"When he was twenty-one, the",woman,9.140381813049316
+28,1,he,m,Match,"When he was annoyed,",Larry,14.660303115844727
+28,1,she,m,Mismatch,"When she was annoyed,",Richard,15.339418411254883
+28,1,she,f,Match,"When she was annoyed,",Ann,10.72482967376709
+28,1,he,f,Mismatch,"When he was annoyed, the",woman,8.272846221923828
+29,1,he,m,Match,"When he was in church,",Liam,15.674302101135254
+29,1,she,m,Mismatch,"When she was in church,",Richard,14.898530006408691
+29,1,she,f,Match,"When she was in church, the",dancer,15.702047348022461
+29,1,he,f,Mismatch,"When he was in church,",Teresa,18.59963607788086
+30,1,he,m,Match,"When he was banished,",Timothy,16.01740837097168
+30,1,she,m,Mismatch,"When she was banished,",Russell,17.614744186401367
+30,1,she,f,Match,"When she was banished,",Sheila,17.25215721130371
+30,1,he,f,Mismatch,"When he was banished,",Cheryl,18.704368591308594
+31,1,he,m,Match,"When he was angry,",Steve,12.475870132446289
+31,1,she,m,Mismatch,"When she was angry,",Wayne,17.623371124267578
+31,1,she,f,Match,"When she was angry, the",dancer,16.57246971130371
+31,1,he,f,Mismatch,"When he was angry,",Janet,17.48190689086914
+32,1,he,m,Match,"When he was distraught,",Brian,14.053914070129395
+32,1,she,m,Mismatch,"When she was distraught,",Russell,16.36362648010254
+32,1,she,f,Match,"When she was distraught, the",wife,9.701111793518066
+32,1,he,f,Mismatch,"When he was distraught,",Helen,14.71617317199707
+1,1,he,m,Match,"When he was off work,",Russell,11.810754776000977
+1,1,she,m,Mismatch,"When she was off work,",Dan,12.424415588378906
+1,1,she,f,Match,"When she was off work,",Judy,11.923466682434082
+1,1,he,f,Mismatch,"When he was off work,",Grace,15.414765357971191
+2,1,he,m,Match,"When he arrived,",Benjamin,13.917412757873535
+2,1,she,m,Mismatch,"When she arrived,",Steve,13.148581504821777
+2,1,she,f,Match,"When she arrived,",Claire,12.46446704864502
+2,1,he,f,Mismatch,"When he arrived,",Mary,11.77392578125
+3,1,he,m,Match,"When he was fed up,",Benjamin,14.941211700439453
+3,1,she,m,Mismatch,"When she was fed up,",Marcus,16.94768714904785
+3,1,she,f,Match,"When she was fed up,",Kristen,17.165218353271484
+3,1,he,f,Mismatch,"When he was fed up,",Marie,18.09935188293457
+4,1,he,m,Match,"When he was talking,",Richard,12.592045783996582
+4,1,she,m,Mismatch,"When she was talking,",Alexander,15.852020263671875
+4,1,she,f,Match,"When she was talking,",Marie,13.98708438873291
+4,1,he,f,Mismatch,"When he was talking, the",wife,10.796502113342285
+5,1,he,m,Match,"When he was nearby,",Keith,15.353316307067871
+5,1,she,m,Mismatch,"When she was nearby,",Larry,15.061495780944824
+5,1,she,f,Match,"When she was nearby, the",sister,10.773360252380371
+5,1,he,f,Mismatch,"When he was nearby, the",girl,7.53343391418457
+6,1,he,m,Match,"When he was lost, the",guy,10.60864543914795
+6,1,she,m,Mismatch,"When she was lost,",Mark,14.403668403625488
+6,1,she,f,Match,"When she was lost, the",girl,5.740952968597412
+6,1,he,f,Mismatch,"When he was lost,",Suzanne,18.426851272583008
+7,1,he,m,Match,"When he was bad-tempered,",Alexander,15.446734428405762
+7,1,she,m,Mismatch,"When she was bad-tempered,",Dennis,18.26495361328125
+7,1,she,f,Match,"When she was bad-tempered,",Carrie,15.384411811828613
+7,1,he,f,Mismatch,"When he was bad-tempered,",Grace,14.477482795715332
+8,1,he,m,Match,"When he was jealous,",Benjamin,16.991661071777344
+8,1,she,m,Mismatch,"When she was jealous,",Brian,15.125515937805176
+8,1,she,f,Match,"When she was jealous, the",girlfriend,10.754337310791016
+8,1,he,f,Mismatch,"When he was jealous,",Catherine,19.36820411682129
+9,1,he,m,Match,"When he was in residence,",Mark,9.635903358459473
+9,1,she,m,Mismatch,"When she was in residence,",Brad,15.905753135681152
+9,1,she,f,Match,"When she was in residence,",Sheila,14.940876007080078
+9,1,he,f,Mismatch,"When he was in residence,",Catherine,15.354905128479004
+10,1,he,m,Match,"When he was introduced,",Charles,11.366218566894531
+10,1,she,m,Mismatch,"When she was introduced,",Richard,13.858920097351074
+10,1,she,f,Match,"When she was introduced,",Karen,10.03740406036377
+10,1,he,f,Mismatch,"When he was introduced,",Claire,16.85935401916504
+11,1,he,m,Match,"When he arrived,",Liam,14.416041374206543
+11,1,she,m,Mismatch,"When she arrived,",Larry,14.766695976257324
+11,1,she,f,Match,"When she arrived, the",mother,9.119773864746094
+11,1,he,f,Mismatch,"When he arrived,",Carrie,16.64937973022461
+12,1,he,m,Match,"When he felt sad,",Charles,11.87588119506836
+12,1,she,m,Mismatch,"When she felt sad,",Dan,14.32251262664795
+12,1,she,f,Match,"When she felt sad,",Theresa,14.986759185791016
+12,1,he,f,Mismatch,"When he felt sad,",Kristen,22.129043579101562
+13,1,he,m,Match,"When he was present,",Steven,14.42258358001709
+13,1,she,m,Mismatch,"When she was present,",Bruce,15.231886863708496
+13,1,she,f,Match,"When she was present,",Claire,14.248505592346191
+13,1,he,f,Mismatch,"When he was present,",Laura,14.80385971069336
+14,1,he,m,Match,"When he was depressed,",Larry,13.971407890319824
+14,1,she,m,Mismatch,"When she was depressed,",Brian,14.300211906433105
+14,1,she,f,Match,"When she was depressed,",Alice,11.935050010681152
+14,1,he,f,Mismatch,"When he was depressed,",Naomi,20.000755310058594
+15,1,he,m,Match,"When he was around,",Guy,15.545317649841309
+15,1,she,m,Mismatch,"When she was around,",Liam,14.871295928955078
+15,1,she,f,Match,"When she was around,",Teresa,15.73515510559082
+15,1,he,f,Mismatch,"When he was around,",Christina,17.862531661987305
+16,1,he,m,Match,"When he was near, the",father,10.04565143585205
+16,1,she,m,Mismatch,"When she was near,",Russell,15.492691993713379
+16,1,she,f,Match,"When she was near,",Kristen,19.03931999206543
+16,1,he,f,Mismatch,"When he was near,",Dana,17.0491943359375
+17,1,he,m,Match,"When he was in court, the",nephew,15.2044677734375
+17,1,she,m,Mismatch,"When she was in court,",Russell,13.819451332092285
+17,1,she,f,Match,"When she was in court, the",girl,6.947061061859131
+17,1,he,f,Mismatch,"When he was in court,",Naomi,19.00471305847168
+18,1,he,m,Match,"When he was poorly,",Alexander,15.535323143005371
+18,1,she,m,Mismatch,"When she was poorly,",Larry,17.534936904907227
+18,1,she,f,Match,"When she was poorly,",Sheila,15.041696548461914
+18,1,he,f,Mismatch,"When he was poorly,",Cynthia,20.052215576171875
+19,1,he,m,Match,"When he arrived,",Bradley,14.896505355834961
+19,1,she,m,Mismatch,"When she arrived,",Keith,15.180619239807129
+19,1,she,f,Match,"When she arrived,",Judy,14.432753562927246
+19,1,he,f,Mismatch,"When he arrived,",Amanda,15.251969337463379
+20,1,he,m,Match,"When he was appointed,",Steven,12.31230640411377
+20,1,she,m,Mismatch,"When she was appointed,",Russell,13.880180358886719
+20,1,she,f,Match,"When she was appointed, the",girlfriend,16.68466567993164
+20,1,he,f,Mismatch,"When he was appointed,",Lori,18.20503044128418
+21,1,he,m,Match,"When he was fired,",Donald,11.186630249023438
+21,1,she,m,Mismatch,"When she was fired,",Russell,13.331876754760742
+21,1,she,f,Match,"When she was fired,",Lori,13.69704818725586
+21,1,he,f,Mismatch,"When he was fired,",Linda,16.09200096130371
+22,1,he,m,Match,"When he was close,",Jason,11.538094520568848
+22,1,she,m,Mismatch,"When she was close,",Charles,12.30557918548584
+22,1,she,f,Match,"When she was close,",Cynthia,15.349089622497559
+22,1,he,f,Mismatch,"When he was close,",Tiffany,16.03858184814453
+23,1,he,m,Match,"When he was retired,",Thomas,11.302165031433105
+23,1,she,m,Mismatch,"When she was retired,",Charles,13.707100868225098
+23,1,she,f,Match,"When she was retired,",Lori,15.901329040527344
+23,1,he,f,Mismatch,"When he was retired,",Teresa,18.831579208374023
+24,1,he,m,Match,"When he was abroad,",Charles,10.527705192565918
+24,1,she,m,Mismatch,"When she was abroad,",John,12.274932861328125
+24,1,she,f,Match,"When she was abroad,",Karen,11.434779167175293
+24,1,he,f,Mismatch,"When he was abroad,",Linda,16.741104125976562
+25,1,he,m,Match,"When he was discovered,",Donald,13.176128387451172
+25,1,she,m,Mismatch,"When she was discovered,",Douglas,16.44927215576172
+25,1,she,f,Match,"When she was discovered,",Naomi,14.408187866210938
+25,1,he,f,Mismatch,"When he was discovered,",Sheila,19.443359375
+26,1,he,m,Match,"When he was busy,",Douglas,15.70455551147461
+26,1,she,m,Mismatch,"When she was busy, the",nephew,13.843656539916992
+26,1,she,f,Match,"When she was busy,",Elizabeth,11.80693244934082
+26,1,he,f,Mismatch,"When he was busy,",Catherine,16.16187858581543
+27,1,he,m,Match,"When he was twenty-one, the",father,7.261929035186768
+27,1,she,m,Mismatch,"When she was twenty-one,",Edward,14.019574165344238
+27,1,she,f,Match,"When she was twenty-one,",Connie,12.819449424743652
+27,1,he,f,Mismatch,"When he was twenty-one,",Dana,16.816686630249023
+28,1,he,m,Match,"When he was annoyed, the",guy,8.92708969116211
+28,1,she,m,Mismatch,"When she was annoyed,",Bruce,17.953271865844727
+28,1,she,f,Match,"When she was annoyed,",Leslie,14.949694633483887
+28,1,he,f,Mismatch,"When he was annoyed,",Sheila,21.189130783081055
+29,1,he,m,Match,"When he was in church,",Keith,14.604912757873535
+29,1,she,m,Mismatch,"When she was in church,",Steve,15.521710395812988
+29,1,she,f,Match,"When she was in church,",Ann,11.052497863769531
+29,1,he,f,Mismatch,"When he was in church,",Sheila,20.23581886291504
+30,1,he,m,Match,"When he was banished, the",guy,10.479618072509766
+30,1,she,m,Mismatch,"When she was banished,",Keith,17.50072479248047
+30,1,she,f,Match,"When she was banished,",Cynthia,16.414209365844727
+30,1,he,f,Mismatch,"When he was banished,",Elizabeth,13.912900924682617
+31,1,he,m,Match,"When he was angry,",Russell,14.999430656433105
+31,1,she,m,Mismatch,"When she was angry,",Jason,15.446501731872559
+31,1,she,f,Match,"When she was angry,",Sheila,16.70235252380371
+31,1,he,f,Mismatch,"When he was angry,",Teresa,19.43592071533203
+32,1,he,m,Match,"When he was distraught,",Thomas,12.379706382751465
+32,1,she,m,Mismatch,"When she was distraught,",Bruce,15.931410789489746
+32,1,she,f,Match,"When she was distraught,",Teresa,15.11277961730957
+32,1,he,f,Mismatch,"When he was distraught,",Laura,15.526473999023438
+1,1,he,m,Match,"When he was off work,",Timothy,13.706829071044922
+1,1,she,m,Mismatch,"When she was off work,",Ronald,18.614316940307617
+1,1,she,f,Match,"When she was off work,",Amanda,10.28372573852539
+1,1,he,f,Mismatch,"When he was off work, the",lady,14.164185523986816
+2,1,he,m,Match,"When he arrived,",Alexander,13.785515785217285
+2,1,she,m,Mismatch,"When she arrived,",Charles,12.654214859008789
+2,1,she,f,Match,"When she arrived,",Julie,12.396719932556152
+2,1,he,f,Mismatch,"When he arrived,",Diana,14.38579273223877
+3,1,he,m,Match,"When he was fed up,",Phillip,16.29727554321289
+3,1,she,m,Mismatch,"When she was fed up,",Bradley,17.887374877929688
+3,1,she,f,Match,"When she was fed up,",Allison,14.657013893127441
+3,1,he,f,Mismatch,"When he was fed up,",Lori,20.405662536621094
+4,1,he,m,Match,"When he was talking, the",guy,7.9203667640686035
+4,1,she,m,Mismatch,"When she was talking,",Jason,12.382654190063477
+4,1,she,f,Match,"When she was talking,",Amanda,14.070011138916016
+4,1,he,f,Mismatch,"When he was talking,",Helen,15.05014705657959
+5,1,he,m,Match,"When he was nearby,",Robert,12.234512329101562
+5,1,she,m,Mismatch,"When she was nearby,",Charles,12.532960891723633
+5,1,she,f,Match,"When she was nearby,",Rachel,12.110560417175293
+5,1,he,f,Mismatch,"When he was nearby,",Carol,15.35801887512207
+6,1,he,m,Match,"When he was lost,",Samuel,15.632590293884277
+6,1,she,m,Mismatch,"When she was lost,",Roger,17.257875442504883
+6,1,she,f,Match,"When she was lost,",Connie,16.789020538330078
+6,1,he,f,Mismatch,"When he was lost, the",girlfriend,17.279157638549805
+7,1,he,m,Match,"When he was bad-tempered,",Christopher,16.214670181274414
+7,1,she,m,Mismatch,"When she was bad-tempered,",Travis,18.171573638916016
+7,1,she,f,Match,"When she was bad-tempered,",Diane,16.851900100708008
+7,1,he,f,Mismatch,"When he was bad-tempered,",Tiffany,17.82821273803711
+8,1,he,m,Match,"When he was jealous,",Bradley,17.55802345275879
+8,1,she,m,Mismatch,"When she was jealous,",Brad,17.40838623046875
+8,1,she,f,Match,"When she was jealous,",Maria,12.68992805480957
+8,1,he,f,Mismatch,"When he was jealous,",Alice,17.996171951293945
+9,1,he,m,Match,"When he was in residence,",Adam,10.70856761932373
+9,1,she,m,Mismatch,"When she was in residence,",Rodney,19.780719757080078
+9,1,she,f,Match,"When she was in residence,",Anne,8.927302360534668
+9,1,he,f,Mismatch,"When he was in residence,",Natalie,17.776092529296875
+10,1,he,m,Match,"When he was introduced, the",nephew,17.265644073486328
+10,1,she,m,Mismatch,"When she was introduced,",Liam,17.06072425842285
+10,1,she,f,Match,"When she was introduced,",Catherine,11.711092948913574
+10,1,he,f,Mismatch,"When he was introduced,",Cynthia,19.74998664855957
+11,1,he,m,Match,"When he arrived,",Larry,13.390384674072266
+11,1,she,m,Mismatch,"When she arrived,",Samuel,15.193652153015137
+11,1,she,f,Match,"When she arrived,",Mary,9.137048721313477
+11,1,he,f,Mismatch,"When he arrived, the",sister,12.410370826721191
+12,1,he,m,Match,"When he felt sad,",Phillip,15.402154922485352
+12,1,she,m,Mismatch,"When she felt sad,",Frank,17.108179092407227
+12,1,she,f,Match,"When she felt sad,",Kristen,16.084300994873047
+12,1,he,f,Mismatch,"When he felt sad, the",girlfriend,19.904306411743164
+13,1,he,m,Match,"When he was present,",Dan,12.544381141662598
+13,1,she,m,Mismatch,"When she was present,",Travis,15.808012008666992
+13,1,she,f,Match,"When she was present, the",sister,11.627043724060059
+13,1,he,f,Mismatch,"When he was present, the",mother,10.176262855529785
+14,1,he,m,Match,"When he was depressed,",Russell,14.430723190307617
+14,1,she,m,Mismatch,"When she was depressed,",Larry,16.344623565673828
+14,1,she,f,Match,"When she was depressed,",Tara,14.11299991607666
+14,1,he,f,Mismatch,"When he was depressed,",Leslie,16.639766693115234
+15,1,he,m,Match,"When he was around,",Samuel,16.055965423583984
+15,1,she,m,Mismatch,"When she was around,",Timothy,17.381383895874023
+15,1,she,f,Match,"When she was around,",Sheila,17.05320167541504
+15,1,he,f,Mismatch,"When he was around,",Kristen,19.225486755371094
+16,1,he,m,Match,"When he was near,",Timothy,15.561286926269531
+16,1,she,m,Mismatch,"When she was near,",Timothy,16.370079040527344
+16,1,she,f,Match,"When she was near,",Danielle,17.52474021911621
+16,1,he,f,Mismatch,"When he was near,",Cheryl,16.90991973876953
+17,1,he,m,Match,"When he was in court,",Travis,14.403855323791504
+17,1,she,m,Mismatch,"When she was in court,",Steven,14.609260559082031
+17,1,she,f,Match,"When she was in court,",Wendy,14.835899353027344
+17,1,he,f,Mismatch,"When he was in court,",Leslie,15.482329368591309
+18,1,he,m,Match,"When he was poorly,",Mark,11.261889457702637
+18,1,she,m,Mismatch,"When she was poorly,",Ronald,18.920917510986328
+18,1,she,f,Match,"When she was poorly,",Cheryl,14.650731086730957
+18,1,he,f,Mismatch,"When he was poorly,",Anne,14.790811538696289
+19,1,he,m,Match,"When he arrived,",Brett,16.04623794555664
+19,1,she,m,Mismatch,"When she arrived,",John,10.676234245300293
+19,1,she,f,Match,"When she arrived,",Karen,10.610101699829102
+19,1,he,f,Mismatch,"When he arrived,",Nicole,15.773764610290527
+20,1,he,m,Match,"When he was appointed,",Phillip,14.77955150604248
+20,1,she,m,Mismatch,"When she was appointed,",Keith,15.869074821472168
+20,1,she,f,Match,"When she was appointed, the",sister,13.554388999938965
+20,1,he,f,Mismatch,"When he was appointed,",Elizabeth,15.151361465454102
+21,1,he,m,Match,"When he was fired,",Bradley,14.51895523071289
+21,1,she,m,Mismatch,"When she was fired, the",guy,11.354018211364746
+21,1,she,f,Match,"When she was fired,",Laura,11.188119888305664
+21,1,he,f,Mismatch,"When he was fired,",Suzanne,18.59821128845215
+22,1,he,m,Match,"When he was close,",Ronald,15.602965354919434
+22,1,she,m,Mismatch,"When she was close, the",guy,8.147419929504395
+22,1,she,f,Match,"When she was close,",Grace,12.389792442321777
+22,1,he,f,Mismatch,"When he was close,",Wendy,15.642221450805664
+23,1,he,m,Match,"When he was retired,",Bradley,16.570262908935547
+23,1,she,m,Mismatch,"When she was retired,",Alexander,16.594762802124023
+23,1,she,f,Match,"When she was retired, the",mother,9.76916217803955
+23,1,he,f,Mismatch,"When he was retired,",Christina,21.90447235107422
+24,1,he,m,Match,"When he was abroad,",Travis,16.3984317779541
+24,1,she,m,Mismatch,"When she was abroad,",Walter,17.006200790405273
+24,1,she,f,Match,"When she was abroad, the",mother,6.540851593017578
+24,1,he,f,Mismatch,"When he was abroad,",Anne,13.730146408081055
+25,1,he,m,Match,"When he was discovered,",Bruce,13.306598663330078
+25,1,she,m,Mismatch,"When she was discovered,",Ronald,18.526079177856445
+25,1,she,f,Match,"When she was discovered,",Alice,13.394978523254395
+25,1,he,f,Mismatch,"When he was discovered,",Carol,16.40645408630371
+26,1,he,m,Match,"When he was busy,",Dennis,16.222869873046875
+26,1,she,m,Mismatch,"When she was busy,",Mitchell,15.08971881866455
+26,1,she,f,Match,"When she was busy,",Nicole,13.25646686553955
+26,1,he,f,Mismatch,"When he was busy,",Pamela,17.6852970123291
+27,1,he,m,Match,"When he was twenty-one,",Liam,13.639595985412598
+27,1,she,m,Mismatch,"When she was twenty-one,",Mark,13.44643497467041
+27,1,she,f,Match,"When she was twenty-one,",Grace,9.37605094909668
+27,1,he,f,Mismatch,"When he was twenty-one, the",girl,10.564937591552734
+28,1,he,m,Match,"When he was annoyed,",Eric,12.543608665466309
+28,1,she,m,Mismatch,"When she was annoyed, the",guy,11.586555480957031
+28,1,she,f,Match,"When she was annoyed,",Wendy,15.454663276672363
+28,1,he,f,Mismatch,"When he was annoyed,",Sally,17.53812599182129
+29,1,he,m,Match,"When he was in church,",Steven,13.156534194946289
+29,1,she,m,Mismatch,"When she was in church,",Benjamin,17.972415924072266
+29,1,she,f,Match,"When she was in church,",Claire,12.258074760437012
+29,1,he,f,Mismatch,"When he was in church, the",girlfriend,16.8485050201416
+30,1,he,m,Match,"When he was banished,",Jason,13.173662185668945
+30,1,she,m,Mismatch,"When she was banished,",Bradley,19.698999404907227
+30,1,she,f,Match,"When she was banished,",Suzanne,16.879030227661133
+30,1,he,f,Mismatch,"When he was banished,",Mary,12.514528274536133
+31,1,he,m,Match,"When he was angry,",Timothy,15.534218788146973
+31,1,she,m,Mismatch,"When she was angry,",Jeffrey,19.59102439880371
+31,1,she,f,Match,"When she was angry,",Karen,11.6951322555542
+31,1,he,f,Mismatch,"When he was angry,",Claire,18.031837463378906
+32,1,he,m,Match,"When he was distraught,",Guy,15.84325122833252
+32,1,she,m,Mismatch,"When she was distraught,",Rodney,19.258359909057617
+32,1,she,f,Match,"When she was distraught,",Marie,13.918277740478516
+32,1,he,f,Mismatch,"When he was distraught,",Danielle,19.983539581298828
+1,1,he,m,Match,"When he was off work,",Bruce,12.119769096374512
+1,1,she,m,Mismatch,"When she was off work,",Mark,11.980074882507324
+1,1,she,f,Match,"When she was off work, the",woman,4.827946186065674
+1,1,he,f,Mismatch,"When he was off work, the",granddaughter,20.03712272644043
+2,1,he,m,Match,"When he arrived,",Kenneth,14.534296035766602
+2,1,she,m,Mismatch,"When she arrived,",Samuel,15.176871299743652
+2,1,she,f,Match,"When she arrived, the",waitress,11.766470909118652
+2,1,he,f,Mismatch,"When he arrived, the",granddaughter,18.209199905395508
+3,1,he,m,Match,"When he was fed up,",Jeffrey,17.450002670288086
+3,1,she,m,Mismatch,"When she was fed up,",Martin,15.787540435791016
+3,1,she,f,Match,"When she was fed up,",Leslie,15.531598091125488
+3,1,he,f,Mismatch,"When he was fed up,",Carrie,20.08000946044922
+4,1,he,m,Match,"When he was talking,",Benjamin,16.538450241088867
+4,1,she,m,Mismatch,"When she was talking,",Frank,12.441137313842773
+4,1,she,f,Match,"When she was talking,",Cynthia,17.1251220703125
+4,1,he,f,Mismatch,"When he was talking, the",girlfriend,14.370939254760742
+5,1,he,m,Match,"When he was nearby,",Ronald,16.033248901367188
+5,1,she,m,Mismatch,"When she was nearby,",Alexander,14.999345779418945
+5,1,she,f,Match,"When she was nearby,",Veronica,15.907313346862793
+5,1,he,f,Mismatch,"When he was nearby,",Meredith,15.828475952148438
+6,1,he,m,Match,"When he was lost,",John,12.02088737487793
+6,1,she,m,Mismatch,"When she was lost,",Theodore,18.858421325683594
+6,1,she,f,Match,"When she was lost,",Tiffany,16.995407104492188
+6,1,he,f,Mismatch,"When he was lost,",Diana,16.68194007873535
+7,1,he,m,Match,"When he was bad-tempered,",Dan,13.466896057128906
+7,1,she,m,Mismatch,"When she was bad-tempered, the",grandson,17.396100997924805
+7,1,she,f,Match,"When she was bad-tempered,",Tara,15.795042991638184
+7,1,he,f,Mismatch,"When he was bad-tempered,",Rachel,13.289143562316895
+8,1,he,m,Match,"When he was jealous,",Bruce,15.42890739440918
+8,1,she,m,Mismatch,"When she was jealous,",Douglas,18.676719665527344
+8,1,she,f,Match,"When she was jealous,",Leslie,14.90379810333252
+8,1,he,f,Mismatch,"When he was jealous,",Nicole,18.26323890686035
+9,1,he,m,Match,"When he was in residence,",William,8.902069091796875
+9,1,she,m,Mismatch,"When she was in residence,",Douglas,15.58159065246582
+9,1,she,f,Match,"When she was in residence,",Tiffany,14.211735725402832
+9,1,he,f,Mismatch,"When he was in residence,",Sharon,20.23310661315918
+10,1,he,m,Match,"When he was introduced,",Steven,12.349555015563965
+10,1,she,m,Mismatch,"When she was introduced,",Alexander,14.899154663085938
+10,1,she,f,Match,"When she was introduced, the",granddaughter,16.385276794433594
+10,1,he,f,Mismatch,"When he was introduced,",Sharon,18.93302345275879
+11,1,he,m,Match,"When he arrived,",Thomas,10.568245887756348
+11,1,she,m,Mismatch,"When she arrived,",Dennis,15.40976619720459
+11,1,she,f,Match,"When she arrived,",Julie,12.397945404052734
+11,1,he,f,Mismatch,"When he arrived,",Connie,16.37372398376465
+12,1,he,m,Match,"When he felt sad,",Brett,18.117109298706055
+12,1,she,m,Mismatch,"When she felt sad,",Kevin,17.01712417602539
+12,1,she,f,Match,"When she felt sad,",Nicole,12.532661437988281
+12,1,he,f,Mismatch,"When he felt sad,",Amanda,19.901033401489258
+13,1,he,m,Match,"When he was present,",Eric,13.168599128723145
+13,1,she,m,Mismatch,"When she was present,",Theodore,16.905302047729492
+13,1,she,f,Match,"When she was present,",Nicole,15.433841705322266
+13,1,he,f,Mismatch,"When he was present,",Naomi,18.581401824951172
+14,1,he,m,Match,"When he was depressed, the",son,10.277113914489746
+14,1,she,m,Mismatch,"When she was depressed,",Keith,16.13397979736328
+14,1,she,f,Match,"When she was depressed,",Ellen,13.467145919799805
+14,1,he,f,Mismatch,"When he was depressed,",Wendy,19.41610336303711
+15,1,he,m,Match,"When he was around,",Kevin,12.840842247009277
+15,1,she,m,Mismatch,"When she was around,",Keith,15.60153579711914
+15,1,she,f,Match,"When she was around,",Sally,15.052885055541992
+15,1,he,f,Mismatch,"When he was around,",Naomi,17.709625244140625
+16,1,he,m,Match,"When he was near,",Benjamin,14.55772876739502
+16,1,she,m,Mismatch,"When she was near,",Donald,15.298300743103027
+16,1,she,f,Match,"When she was near,",Mary,10.434720993041992
+16,1,he,f,Mismatch,"When he was near,",Susan,15.211803436279297
+17,1,he,m,Match,"When he was in court,",William,12.271875381469727
+17,1,she,m,Mismatch,"When she was in court,",Eric,14.231082916259766
+17,1,she,f,Match,"When she was in court,",Anna,10.74590015411377
+17,1,he,f,Mismatch,"When he was in court,",Nicole,15.64453125
+18,1,he,m,Match,"When he was poorly,",Mitchell,15.503726959228516
+18,1,she,m,Mismatch,"When she was poorly,",Jeffrey,19.521398544311523
+18,1,she,f,Match,"When she was poorly,",Julie,13.279723167419434
+18,1,he,f,Mismatch,"When he was poorly,",Julia,15.828958511352539
+19,1,he,m,Match,"When he arrived,",Travis,14.092691421508789
+19,1,she,m,Mismatch,"When she arrived,",Ronald,16.97127914428711
+19,1,she,f,Match,"When she arrived, the",sister,11.378619194030762
+19,1,he,f,Mismatch,"When he arrived,",Vanessa,17.45934295654297
+20,1,he,m,Match,"When he was appointed,",Eric,11.506414413452148
+20,1,she,m,Mismatch,"When she was appointed,",Benjamin,16.60445785522461
+20,1,she,f,Match,"When she was appointed,",Sharon,16.09607696533203
+20,1,he,f,Mismatch,"When he was appointed,",Grace,15.042192459106445
+21,1,he,m,Match,"When he was fired, the",nephew,16.902490615844727
+21,1,she,m,Mismatch,"When she was fired,",Edward,16.375852584838867
+21,1,she,f,Match,"When she was fired, the",lady,10.7770357131958
+21,1,he,f,Mismatch,"When he was fired,",Danielle,19.159915924072266
+22,1,he,m,Match,"When he was close,",Frank,11.616175651550293
+22,1,she,m,Mismatch,"When she was close,",Ronald,16.541606903076172
+22,1,she,f,Match,"When she was close,",Tiffany,15.081636428833008
+22,1,he,f,Mismatch,"When he was close, the",waitress,12.214703559875488
+23,1,he,m,Match,"When he was retired,",Samuel,14.68535041809082
+23,1,she,m,Mismatch,"When she was retired,",Steven,16.451528549194336
+23,1,she,f,Match,"When she was retired, the",sister,10.994515419006348
+23,1,he,f,Mismatch,"When he was retired,",Victoria,17.752948760986328
+24,1,he,m,Match,"When he was abroad,",Derek,14.629755973815918
+24,1,she,m,Mismatch,"When she was abroad,",Carlos,18.191755294799805
+24,1,she,f,Match,"When she was abroad,",Elizabeth,9.938000679016113
+24,1,he,f,Mismatch,"When he was abroad,",Meredith,17.742595672607422
+25,1,he,m,Match,"When he was discovered,",Jason,13.053694725036621
+25,1,she,m,Mismatch,"When she was discovered,",Eric,14.557559967041016
+25,1,she,f,Match,"When she was discovered, the",waitress,11.751602172851562
+25,1,he,f,Mismatch,"When he was discovered,",Beth,17.400693893432617
+26,1,he,m,Match,"When he was busy,",Carlos,15.144342422485352
+26,1,she,m,Mismatch,"When she was busy,",Todd,15.072691917419434
+26,1,she,f,Match,"When she was busy,",Grace,11.76298713684082
+26,1,he,f,Mismatch,"When he was busy,",Susan,15.717205047607422
+27,1,he,m,Match,"When he was twenty-one,",Walter,10.310471534729004
+27,1,she,m,Mismatch,"When she was twenty-one,",Phillip,15.320372581481934
+27,1,she,f,Match,"When she was twenty-one,",Ellen,10.608149528503418
+27,1,he,f,Mismatch,"When he was twenty-one, the",girlfriend,16.008316040039062
+28,1,he,m,Match,"When he was annoyed,",Travis,15.706915855407715
+28,1,she,m,Mismatch,"When she was annoyed,",Bradley,18.66796112060547
+28,1,she,f,Match,"When she was annoyed,",Beth,13.352392196655273
+28,1,he,f,Mismatch,"When he was annoyed,",Maria,16.59075355529785
+29,1,he,m,Match,"When he was in church,",Roger,14.251679420471191
+29,1,she,m,Mismatch,"When she was in church,",Martin,14.402804374694824
+29,1,she,f,Match,"When she was in church,",Alice,12.408605575561523
+29,1,he,f,Mismatch,"When he was in church,",Naomi,20.698518753051758
+30,1,he,m,Match,"When he was banished,",Rodney,18.304473876953125
+30,1,she,m,Mismatch,"When she was banished,",Steven,16.727956771850586
+30,1,she,f,Match,"When she was banished,",Anne,12.623058319091797
+30,1,he,f,Mismatch,"When he was banished, the",lady,12.516393661499023
+31,1,he,m,Match,"When he was angry,",Bruce,14.900815963745117
+31,1,she,m,Mismatch,"When she was angry,",Carlos,18.09370994567871
+31,1,she,f,Match,"When she was angry,",Sarah,10.712410926818848
+31,1,he,f,Mismatch,"When he was angry,",Laura,17.356781005859375
+32,1,he,m,Match,"When he was distraught,",Charles,12.249009132385254
+32,1,she,m,Mismatch,"When she was distraught,",Christopher,15.225130081176758
+32,1,she,f,Match,"When she was distraught,",Alice,14.273086547851562
+32,1,he,f,Mismatch,"When he was distraught, the",sister,12.579655647277832
+1,1,he,m,Match,"When he was off work,",Charles,11.180230140686035
+1,1,she,m,Mismatch,"When she was off work, the",grandson,17.014076232910156
+1,1,she,f,Match,"When she was off work,",Danielle,12.424631118774414
+1,1,he,f,Mismatch,"When he was off work,",Laurie,18.290163040161133
+2,1,he,m,Match,"When he arrived, the",boy,8.313693046569824
+2,1,she,m,Mismatch,"When she arrived,",Chad,15.240185737609863
+2,1,she,f,Match,"When she arrived,",Veronica,15.044230461120605
+2,1,he,f,Mismatch,"When he arrived,",Ellen,16.01323699951172
+3,1,he,m,Match,"When he was fed up,",Eric,12.844979286193848
+3,1,she,m,Mismatch,"When she was fed up,",Edward,16.580480575561523
+3,1,she,f,Match,"When she was fed up,",Florence,15.478575706481934
+3,1,he,f,Mismatch,"When he was fed up,",Anna,17.192903518676758
+4,1,he,m,Match,"When he was talking,",Christopher,14.592574119567871
+4,1,she,m,Mismatch,"When she was talking,",Travis,16.098628997802734
+4,1,she,f,Match,"When she was talking,",Suzanne,16.197153091430664
+4,1,he,f,Mismatch,"When he was talking,",Stephanie,16.462770462036133
+5,1,he,m,Match,"When he was nearby,",Phillip,14.883993148803711
+5,1,she,m,Mismatch,"When she was nearby,",Omar,17.010005950927734
+5,1,she,f,Match,"When she was nearby,",Patricia,14.760361671447754
+5,1,he,f,Mismatch,"When he was nearby, the",granddaughter,18.89300537109375
+6,1,he,m,Match,"When he was lost,",Brett,20.039087295532227
+6,1,she,m,Mismatch,"When she was lost,",Paul,13.525837898254395
+6,1,she,f,Match,"When she was lost,",Cindy,16.783672332763672
+6,1,he,f,Mismatch,"When he was lost, the",waitress,15.159733772277832
+7,1,he,m,Match,"When he was bad-tempered,",Phillip,17.535303115844727
+7,1,she,m,Mismatch,"When she was bad-tempered, the",man,8.256101608276367
+7,1,she,f,Match,"When she was bad-tempered, the",granddaughter,19.308685302734375
+7,1,he,f,Mismatch,"When he was bad-tempered,",Wendy,17.992876052856445
+8,1,he,m,Match,"When he was jealous,",Edward,13.36889934539795
+8,1,she,m,Mismatch,"When she was jealous,",Jerry,16.939014434814453
+8,1,she,f,Match,"When she was jealous,",Veronica,16.172910690307617
+8,1,he,f,Mismatch,"When he was jealous, the",sister,13.501800537109375
+9,1,he,m,Match,"When he was in residence,",George,8.4871244430542
+9,1,she,m,Mismatch,"When she was in residence,",Patrick,14.252399444580078
+9,1,she,f,Match,"When she was in residence,",Jill,14.477118492126465
+9,1,he,f,Mismatch,"When he was in residence,",Meredith,16.90370750427246
+10,1,he,m,Match,"When he was introduced,",William,12.761198043823242
+10,1,she,m,Mismatch,"When she was introduced,",Douglas,15.155850410461426
+10,1,she,f,Match,"When she was introduced,",Tara,13.851577758789062
+10,1,he,f,Mismatch,"When he was introduced,",Jill,18.808582305908203
+11,1,he,m,Match,"When he arrived,",Keith,14.18049144744873
+11,1,she,m,Mismatch,"When she arrived,",Omar,16.360647201538086
+11,1,she,f,Match,"When she arrived, the",grandmother,12.879090309143066
+11,1,he,f,Mismatch,"When he arrived,",Anne,14.186264991760254
+12,1,he,m,Match,"When he felt sad,",Andrew,12.008462905883789
+12,1,she,m,Mismatch,"When she felt sad,",Adam,17.535537719726562
+12,1,she,f,Match,"When she felt sad, the",lady,10.176759719848633
+12,1,he,f,Mismatch,"When he felt sad,",Stephanie,20.553667068481445
+13,1,he,m,Match,"When he was present,",Carlos,15.641663551330566
+13,1,she,m,Mismatch,"When she was present,",Omar,17.212778091430664
+13,1,she,f,Match,"When she was present,",Tiffany,15.29452896118164
+13,1,he,f,Mismatch,"When he was present,",Mary,10.863154411315918
+14,1,he,m,Match,"When he was depressed,",Aaron,14.29199504852295
+14,1,she,m,Mismatch,"When she was depressed, the",father,11.613038063049316
+14,1,she,f,Match,"When she was depressed,",Laurie,16.803485870361328
+14,1,he,f,Mismatch,"When he was depressed,",Susan,17.005338668823242
+15,1,he,m,Match,"When he was around,",Gary,13.40058708190918
+15,1,she,m,Mismatch,"When she was around,",Douglas,16.695383071899414
+15,1,she,f,Match,"When she was around,",Maria,13.869662284851074
+15,1,he,f,Mismatch,"When he was around,",Elizabeth,14.458398818969727
+16,1,he,m,Match,"When he was near,",Jason,12.738809585571289
+16,1,she,m,Mismatch,"When she was near,",Bradley,16.8526554107666
+16,1,she,f,Match,"When she was near,",Diana,13.661840438842773
+16,1,he,f,Mismatch,"When he was near, the",actress,15.327216148376465
+17,1,he,m,Match,"When he was in court,",Paul,10.652297019958496
+17,1,she,m,Mismatch,"When she was in court,",William,14.884652137756348
+17,1,she,f,Match,"When she was in court, the",lady,9.838363647460938
+17,1,he,f,Mismatch,"When he was in court, the",lady,11.821093559265137
+18,1,he,m,Match,"When he was poorly,",Adam,12.335347175598145
+18,1,she,m,Mismatch,"When she was poorly,",Andrew,13.831069946289062
+18,1,she,f,Match,"When she was poorly,",Wendy,14.695267677307129
+18,1,he,f,Mismatch,"When he was poorly,",Natalie,18.250503540039062
+19,1,he,m,Match,"When he arrived,",Adam,10.49191665649414
+19,1,she,m,Mismatch,"When she arrived,",Andrew,12.46463394165039
+19,1,she,f,Match,"When she arrived,",Pamela,14.934536933898926
+19,1,he,f,Mismatch,"When he arrived,",Natalie,16.14198875427246
+20,1,he,m,Match,"When he was appointed,",Mitchell,12.320310592651367
+20,1,she,m,Mismatch,"When she was appointed,",Brett,16.358692169189453
+20,1,she,f,Match,"When she was appointed,",Carol,13.690855979919434
+20,1,he,f,Mismatch,"When he was appointed,",Wendy,18.66315269470215
+21,1,he,m,Match,"When he was fired,",John,9.651005744934082
+21,1,she,m,Mismatch,"When she was fired,",Mark,11.436795234680176
+21,1,she,f,Match,"When she was fired,",Erin,11.956232070922852
+21,1,he,f,Mismatch,"When he was fired,",Meredith,16.211610794067383
+22,1,he,m,Match,"When he was close,",Mitchell,13.944609642028809
+22,1,she,m,Mismatch,"When she was close,",Theodore,16.295982360839844
+22,1,she,f,Match,"When she was close, the",lady,9.496245384216309
+22,1,he,f,Mismatch,"When he was close,",Veronica,15.93942928314209
+23,1,he,m,Match,"When he was retired,",Ronald,14.275906562805176
+23,1,she,m,Mismatch,"When she was retired,",Douglas,16.64380645751953
+23,1,she,f,Match,"When she was retired,",Vanessa,16.511192321777344
+23,1,he,f,Mismatch,"When he was retired,",Jessica,18.72469139099121
+24,1,he,m,Match,"When he was abroad,",Theodore,15.154593467712402
+24,1,she,m,Mismatch,"When she was abroad,",Omar,18.333553314208984
+24,1,she,f,Match,"When she was abroad,",Maria,11.497540473937988
+24,1,he,f,Mismatch,"When he was abroad,",Jill,18.119834899902344
+25,1,he,m,Match,"When he was discovered,",Samuel,13.352011680603027
+25,1,she,m,Mismatch,"When she was discovered,",Omar,17.97004508972168
+25,1,she,f,Match,"When she was discovered,",Ellen,13.330694198608398
+25,1,he,f,Mismatch,"When he was discovered,",Patricia,16.507768630981445
+26,1,he,m,Match,"When he was busy,",Curtis,15.996707916259766
+26,1,she,m,Mismatch,"When she was busy,",Paul,11.384751319885254
+26,1,she,f,Match,"When she was busy,",Wendy,14.01014518737793
+26,1,he,f,Mismatch,"When he was busy,",Cindy,17.22101593017578
+27,1,he,m,Match,"When he was twenty-one,",Andrew,9.708769798278809
+27,1,she,m,Mismatch,"When she was twenty-one,",Carlos,17.538711547851562
+27,1,she,f,Match,"When she was twenty-one,",Susan,10.905248641967773
+27,1,he,f,Mismatch,"When he was twenty-one,",Elizabeth,15.595995903015137
+28,1,he,m,Match,"When he was annoyed, the",grandson,14.557156562805176
+28,1,she,m,Mismatch,"When she was annoyed,",Douglas,18.408994674682617
+28,1,she,f,Match,"When she was annoyed,",Denise,16.601591110229492
+28,1,he,f,Mismatch,"When he was annoyed, the",sister,14.65701675415039
+29,1,he,m,Match,"When he was in church,",Mitchell,14.205282211303711
+29,1,she,m,Mismatch,"When she was in church,",Steven,16.355960845947266
+29,1,she,f,Match,"When she was in church, the",lady,8.823431968688965
+29,1,he,f,Mismatch,"When he was in church, the",waitress,13.774579048156738
+30,1,he,m,Match,"When he was banished, the",boy,8.978006362915039
+30,1,she,m,Mismatch,"When she was banished,",Ronald,19.887622833251953
+30,1,she,f,Match,"When she was banished,",Connie,16.655044555664062
+30,1,he,f,Mismatch,"When he was banished,",Victoria,15.768882751464844
+31,1,he,m,Match,"When he was angry,",Dan,13.55388069152832
+31,1,she,m,Mismatch,"When she was angry,",Omar,19.160633087158203
+31,1,she,f,Match,"When she was angry,",Tara,13.749486923217773
+31,1,he,f,Mismatch,"When he was angry, the",girl,12.722271919250488
+32,1,he,m,Match,"When he was distraught,",Bradley,17.727741241455078
+32,1,she,m,Mismatch,"When she was distraught,",Douglas,16.149076461791992
+32,1,she,f,Match,"When she was distraught,",Meredith,15.780993461608887
+32,1,he,f,Mismatch,"When he was distraught,",Julie,15.985250473022461
+1,1,he,m,Match,"When he was off work, the",guy,8.761977195739746
+1,1,she,m,Mismatch,"When she was off work,",Kenneth,16.239694595336914
+1,1,she,f,Match,"When she was off work,",Leslie,12.622175216674805
+1,1,he,f,Mismatch,"When he was off work,",Jane,16.202091217041016
+2,1,he,m,Match,"When he arrived, the",husband,12.743510246276855
+2,1,she,m,Mismatch,"When she arrived,",Martin,12.225346565246582
+2,1,she,f,Match,"When she arrived,",Erin,13.501177787780762
+2,1,he,f,Mismatch,"When he arrived,",Paula,16.331340789794922
+3,1,he,m,Match,"When he was fed up, the",grandson,14.396517753601074
+3,1,she,m,Mismatch,"When she was fed up,",Phillip,17.519874572753906
+3,1,she,f,Match,"When she was fed up,",Stacy,17.0052490234375
+3,1,he,f,Mismatch,"When he was fed up,",Diana,18.291561126708984
+4,1,he,m,Match,"When he was talking,",Ronald,16.87316131591797
+4,1,she,m,Mismatch,"When she was talking,",Aaron,14.217320442199707
+4,1,she,f,Match,"When she was talking,",Alice,12.848292350769043
+4,1,he,f,Mismatch,"When he was talking,",Mary,11.615008354187012
+5,1,he,m,Match,"When he was nearby,",Travis,14.631939888000488
+5,1,she,m,Mismatch,"When she was nearby,",George,11.853750228881836
+5,1,she,f,Match,"When she was nearby, the",grandmother,12.921257019042969
+5,1,he,f,Mismatch,"When he was nearby,",Emily,12.92507266998291
+6,1,he,m,Match,"When he was lost,",Theodore,17.17084312438965
+6,1,she,m,Mismatch,"When she was lost,",Gary,15.845728874206543
+6,1,she,f,Match,"When she was lost,",Jane,14.647795677185059
+6,1,he,f,Mismatch,"When he was lost,",Ellen,17.633214950561523
+7,1,he,m,Match,"When he was bad-tempered,",Mitchell,17.182729721069336
+7,1,she,m,Mismatch,"When she was bad-tempered,",Peter,11.833791732788086
+7,1,she,f,Match,"When she was bad-tempered,",Ruth,13.23373031616211
+7,1,he,f,Mismatch,"When he was bad-tempered,",Susan,14.791805267333984
+8,1,he,m,Match,"When he was jealous,",Adam,12.461342811584473
+8,1,she,m,Mismatch,"When she was jealous,",Gerald,17.98527717590332
+8,1,she,f,Match,"When she was jealous, the",actress,9.059318542480469
+8,1,he,f,Mismatch,"When he was jealous,",Danielle,21.644195556640625
+9,1,he,m,Match,"When he was in residence,",Raymond,14.505375862121582
+9,1,she,m,Mismatch,"When she was in residence,",Curtis,16.421913146972656
+9,1,she,f,Match,"When she was in residence,",Tara,15.9775972366333
+9,1,he,f,Mismatch,"When he was in residence,",Jane,14.191305160522461
+10,1,he,m,Match,"When he was introduced,",Paul,9.601579666137695
+10,1,she,m,Mismatch,"When she was introduced,",Travis,16.798540115356445
+10,1,she,f,Match,"When she was introduced,",Caroline,12.742805480957031
+10,1,he,f,Mismatch,"When he was introduced,",Rachel,16.978710174560547
+11,1,he,m,Match,"When he arrived,",Jason,11.79153823852539
+11,1,she,m,Mismatch,"When she arrived,",Curtis,15.936246871948242
+11,1,she,f,Match,"When she arrived,",Samantha,11.832171440124512
+11,1,he,f,Mismatch,"When he arrived,",Grace,14.730571746826172
+12,1,he,m,Match,"When he felt sad,",Kenneth,14.827483177185059
+12,1,she,m,Mismatch,"When she felt sad, the",boy,9.427677154541016
+12,1,she,f,Match,"When she felt sad,",Sandra,14.240729331970215
+12,1,he,f,Mismatch,"When he felt sad,",Mary,15.664828300476074
+13,1,he,m,Match,"When he was present,",Aaron,14.498251914978027
+13,1,she,m,Mismatch,"When she was present,",Jerry,14.535398483276367
+13,1,she,f,Match,"When she was present,",Donna,15.829161643981934
+13,1,he,f,Mismatch,"When he was present,",Erin,17.420331954956055
+14,1,he,m,Match,"When he was depressed, the",grandson,15.726690292358398
+14,1,she,m,Mismatch,"When she was depressed,",Christopher,16.036991119384766
+14,1,she,f,Match,"When she was depressed,",Gina,16.649202346801758
+14,1,he,f,Mismatch,"When he was depressed,",Sonia,20.700061798095703
+15,1,he,m,Match,"When he was around,",Bill,12.575438499450684
+15,1,she,m,Mismatch,"When she was around,",Eric,12.9283447265625
+15,1,she,f,Match,"When she was around,",Tara,16.259004592895508
+15,1,he,f,Mismatch,"When he was around,",Nicole,16.8514461517334
+16,1,he,m,Match,"When he was near,",Mark,11.24566650390625
+16,1,she,m,Mismatch,"When she was near,",Keith,16.174291610717773
+16,1,she,f,Match,"When she was near,",Sonia,17.91683578491211
+16,1,he,f,Mismatch,"When he was near,",Kathleen,18.19400978088379
+17,1,he,m,Match,"When he was in court,",Curtis,12.708641052246094
+17,1,she,m,Mismatch,"When she was in court,",Gary,14.472685813903809
+17,1,she,f,Match,"When she was in court, the",granddaughter,16.24216079711914
+17,1,he,f,Mismatch,"When he was in court,",Erin,16.049955368041992
+18,1,he,m,Match,"When he was poorly, the",brother,14.198272705078125
+18,1,she,m,Mismatch,"When she was poorly,",Todd,17.263648986816406
+18,1,she,f,Match,"When she was poorly,",Anna,11.52400016784668
+18,1,he,f,Mismatch,"When he was poorly,",Meredith,18.784732818603516
+19,1,he,m,Match,"When he arrived,",Bill,11.964598655700684
+19,1,she,m,Mismatch,"When she arrived,",Bill,12.532561302185059
+19,1,she,f,Match,"When she arrived,",Erin,13.501057624816895
+19,1,he,f,Mismatch,"When he arrived,",Anne,14.1859130859375
+20,1,he,m,Match,"When he was appointed,",Carlos,14.92923641204834
+20,1,she,m,Mismatch,"When she was appointed,",Travis,18.43326759338379
+20,1,she,f,Match,"When she was appointed, the",lady,11.613990783691406
+20,1,he,f,Mismatch,"When he was appointed,",Rachel,16.79966163635254
+21,1,he,m,Match,"When he was fired,",Phillip,15.162962913513184
+21,1,she,m,Mismatch,"When she was fired,",Andrew,14.255885124206543
+21,1,she,f,Match,"When she was fired,",Kathleen,13.604609489440918
+21,1,he,f,Mismatch,"When he was fired,",Diana,16.937667846679688
+22,1,he,m,Match,"When he was close,",Kevin,12.649654388427734
+22,1,she,m,Mismatch,"When she was close,",Adam,11.852932929992676
+22,1,she,f,Match,"When she was close,",Susan,13.520591735839844
+22,1,he,f,Mismatch,"When he was close,",Monica,15.854190826416016
+23,1,he,m,Match,"When he was retired,",Andrew,12.383100509643555
+23,1,she,m,Mismatch,"When she was retired,",Dennis,17.257017135620117
+23,1,she,f,Match,"When she was retired, the",lady,9.194367408752441
+23,1,he,f,Mismatch,"When he was retired,",Martha,18.117624282836914
+24,1,he,m,Match,"When he was abroad, the",boy,6.358754634857178
+24,1,she,m,Mismatch,"When she was abroad,",Jerry,15.51450252532959
+24,1,she,f,Match,"When she was abroad,",Wendy,14.680949211120605
+24,1,he,f,Mismatch,"When he was abroad,",Erin,17.890287399291992
+25,1,he,m,Match,"When he was discovered,",Steven,12.955108642578125
+25,1,she,m,Mismatch,"When she was discovered,",George,12.540031433105469
+25,1,she,f,Match,"When she was discovered,",Susan,13.683915138244629
+25,1,he,f,Mismatch,"When he was discovered,",Valerie,19.7377872467041
+26,1,he,m,Match,"When he was busy,",Alan,13.523576736450195
+26,1,she,m,Mismatch,"When she was busy,",Daniel,13.186186790466309
+26,1,she,f,Match,"When she was busy, the",granddaughter,16.858919143676758
+26,1,he,f,Mismatch,"When he was busy,",Ruth,15.002776145935059
+27,1,he,m,Match,"When he was twenty-one, the",boyfriend,14.563178062438965
+27,1,she,m,Mismatch,"When she was twenty-one,",Eric,15.399848937988281
+27,1,she,f,Match,"When she was twenty-one,",Barbara,11.232016563415527
+27,1,he,f,Mismatch,"When he was twenty-one,",Alice,16.327312469482422
+28,1,he,m,Match,"When he was annoyed,",Vincent,13.198391914367676
+28,1,she,m,Mismatch,"When she was annoyed,",Ronald,19.69080924987793
+28,1,she,f,Match,"When she was annoyed,",Barbara,14.07076358795166
+28,1,he,f,Mismatch,"When he was annoyed, the",granddaughter,20.334163665771484
+29,1,he,m,Match,"When he was in church, the",brother,12.577445030212402
+29,1,she,m,Mismatch,"When she was in church,",Ronald,20.152544021606445
+29,1,she,f,Match,"When she was in church,",Victoria,12.656594276428223
+29,1,he,f,Mismatch,"When he was in church, the",granddaughter,20.47357749938965
+30,1,he,m,Match,"When he was banished,",Bill,14.436342239379883
+30,1,she,m,Mismatch,"When she was banished,",Jeffrey,19.41767692565918
+30,1,she,f,Match,"When she was banished,",Susan,14.389264106750488
+30,1,he,f,Mismatch,"When he was banished,",Ellen,17.456478118896484
+31,1,he,m,Match,"When he was angry,",Todd,16.32526397705078
+31,1,she,m,Mismatch,"When she was angry,",William,15.360520362854004
+31,1,she,f,Match,"When she was angry,",Jessica,14.745534896850586
+31,1,he,f,Mismatch,"When he was angry,",Connie,18.177906036376953
+32,1,he,m,Match,"When he was distraught,",Travis,17.08770179748535
+32,1,she,m,Mismatch,"When she was distraught,",Eric,12.938278198242188
+32,1,she,f,Match,"When she was distraught,",Diana,13.299748420715332
+32,1,he,f,Mismatch,"When he was distraught,",Laurie,19.579757690429688
+1,1,he,m,Match,"When he was off work,",Mitchell,12.196012496948242
+1,1,she,m,Mismatch,"When she was off work,",Jerry,14.376132011413574
+1,1,she,f,Match,"When she was off work,",Alice,10.727407455444336
+1,1,he,f,Mismatch,"When he was off work,",Paula,16.943233489990234
+2,1,he,m,Match,"When he arrived, the",brother,12.282665252685547
+2,1,she,m,Mismatch,"When she arrived,",Frank,12.235262870788574
+2,1,she,f,Match,"When she arrived,",Barbara,13.679000854492188
+2,1,he,f,Mismatch,"When he arrived, the",grandmother,13.648061752319336
+3,1,he,m,Match,"When he was fed up,",Kenneth,15.394543647766113
+3,1,she,m,Mismatch,"When she was fed up,",Kenneth,18.064416885375977
+3,1,she,f,Match,"When she was fed up,",Andrea,15.43889045715332
+3,1,he,f,Mismatch,"When he was fed up,",Laurie,20.859155654907227
+4,1,he,m,Match,"When he was talking,",Jeffrey,16.990903854370117
+4,1,she,m,Mismatch,"When she was talking,",Adam,12.84736156463623
+4,1,she,f,Match,"When she was talking,",Anna,12.090607643127441
+4,1,he,f,Mismatch,"When he was talking,",Anne,14.110126495361328
+5,1,he,m,Match,"When he was nearby,",Theodore,15.57164192199707
+5,1,she,m,Mismatch,"When she was nearby, the",brother,12.251673698425293
+5,1,she,f,Match,"When she was nearby,",Katherine,13.124173164367676
+5,1,he,f,Mismatch,"When he was nearby,",Rebecca,15.014480590820312
+6,1,he,m,Match,"When he was lost,",Jerry,14.922120094299316
+6,1,she,m,Mismatch,"When she was lost,",Bill,15.353270530700684
+6,1,she,f,Match,"When she was lost,",Valerie,18.906585693359375
+6,1,he,f,Mismatch,"When he was lost,",April,18.746971130371094
+7,1,he,m,Match,"When he was bad-tempered, the",brother,13.911160469055176
+7,1,she,m,Mismatch,"When she was bad-tempered,",Lawrence,14.899826049804688
+7,1,she,f,Match,"When she was bad-tempered,",Barbara,14.867524147033691
+7,1,he,f,Mismatch,"When he was bad-tempered,",Sonia,17.670764923095703
+8,1,he,m,Match,"When he was jealous,",Todd,16.1612491607666
+8,1,she,m,Mismatch,"When she was jealous,",Craig,17.420700073242188
+8,1,she,f,Match,"When she was jealous,",Monica,14.272810935974121
+8,1,he,f,Mismatch,"When he was jealous,",Wendy,20.494096755981445
+9,1,he,m,Match,"When he was in residence,",Lawrence,12.610895156860352
+9,1,she,m,Mismatch,"When she was in residence,",Alan,15.321650505065918
+9,1,she,f,Match,"When she was in residence, the",grandmother,13.052559852600098
+9,1,he,f,Mismatch,"When he was in residence,",Paula,17.429683685302734
+10,1,he,m,Match,"When he was introduced,",Roger,13.309235572814941
+10,1,she,m,Mismatch,"When she was introduced,",Kenneth,16.046581268310547
+10,1,she,f,Match,"When she was introduced,",Jessica,12.129146575927734
+10,1,he,f,Mismatch,"When he was introduced, the",waitress,14.749995231628418
+11,1,he,m,Match,"When he arrived,",Frank,10.620177268981934
+11,1,she,m,Mismatch,"When she arrived,",Alan,13.985523223876953
+11,1,she,f,Match,"When she arrived,",Allison,14.015689849853516
+11,1,he,f,Mismatch,"When he arrived,",Victoria,15.52083969116211
+12,1,he,m,Match,"When he felt sad,",Paul,11.491962432861328
+12,1,she,m,Mismatch,"When she felt sad, the",husband,14.585679054260254
+12,1,she,f,Match,"When she felt sad,",Jane,12.655385971069336
+12,1,he,f,Mismatch,"When he felt sad,",Grace,20.036659240722656
+13,1,he,m,Match,"When he was present,",Gary,14.246013641357422
+13,1,she,m,Mismatch,"When she was present,",Gary,14.551360130310059
+13,1,she,f,Match,"When she was present,",Victoria,13.911359786987305
+13,1,he,f,Mismatch,"When he was present,",Laurie,19.8314266204834
+14,1,he,m,Match,"When he was depressed,",Gary,13.014715194702148
+14,1,she,m,Mismatch,"When she was depressed,",Dan,13.624051094055176
+14,1,she,f,Match,"When she was depressed,",Valerie,16.60561752319336
+14,1,he,f,Mismatch,"When he was depressed, the",actress,12.72321891784668
+15,1,he,m,Match,"When he was around,",Alan,14.28347110748291
+15,1,she,m,Mismatch,"When she was around,",Mitchell,15.217344284057617
+15,1,she,f,Match,"When she was around,",Melanie,16.163393020629883
+15,1,he,f,Mismatch,"When he was around,",Natalie,16.48587989807129
+16,1,he,m,Match,"When he was near,",Carlos,14.432331085205078
+16,1,she,m,Mismatch,"When she was near,",Ronald,17.753053665161133
+16,1,she,f,Match,"When she was near,",Laurie,18.831607818603516
+16,1,he,f,Mismatch,"When he was near,",Heidi,17.295482635498047
+17,1,he,m,Match,"When he was in court, the",husband,11.313966751098633
+17,1,she,m,Mismatch,"When she was in court,",George,13.242481231689453
+17,1,she,f,Match,"When she was in court,",Veronica,15.758523941040039
+17,1,he,f,Mismatch,"When he was in court,",Gina,19.918001174926758
+18,1,he,m,Match,"When he was poorly, the",boyfriend,15.85218334197998
+18,1,she,m,Mismatch,"When she was poorly,",Gary,14.740229606628418
+18,1,she,f,Match,"When she was poorly,",Samantha,14.303183555603027
+18,1,he,f,Mismatch,"When he was poorly,",Florence,16.632566452026367
+19,1,he,m,Match,"When he arrived,",George,10.233785629272461
+19,1,she,m,Mismatch,"When she arrived,",Stephen,14.648089408874512
+19,1,she,f,Match,"When she arrived,",Carolyn,15.362667083740234
+19,1,he,f,Mismatch,"When he arrived,",Tiffany,16.695053100585938
+20,1,he,m,Match,"When he was appointed,",William,12.246790885925293
+20,1,she,m,Mismatch,"When she was appointed, the",grandson,16.285282135009766
+20,1,she,f,Match,"When she was appointed,",Victoria,12.119938850402832
+20,1,he,f,Mismatch,"When he was appointed,",Ellen,17.154531478881836
+21,1,he,m,Match,"When he was fired,",Bill,9.99657917022705
+21,1,she,m,Mismatch,"When she was fired,",Adam,13.832620620727539
+21,1,she,f,Match,"When she was fired,",Martha,14.188715934753418
+21,1,he,f,Mismatch,"When he was fired,",Susan,16.588489532470703
+22,1,he,m,Match,"When he was close,",Paul,10.77749252319336
+22,1,she,m,Mismatch,"When she was close,",Todd,14.379422187805176
+22,1,she,f,Match,"When she was close,",Ruth,13.372946739196777
+22,1,he,f,Mismatch,"When he was close,",Jessica,13.811132431030273
+23,1,he,m,Match,"When he was retired,",Omar,16.959583282470703
+23,1,she,m,Mismatch,"When she was retired,",Theodore,18.999713897705078
+23,1,she,f,Match,"When she was retired,",Florence,13.287003517150879
+23,1,he,f,Mismatch,"When he was retired,",Katherine,18.528623580932617
+24,1,he,m,Match,"When he was abroad,",Kenneth,13.73292064666748
+24,1,she,m,Mismatch,"When she was abroad,",Curtis,17.715824127197266
+24,1,she,f,Match,"When she was abroad,",Diana,11.169246673583984
+24,1,he,f,Mismatch,"When he was abroad,",Caroline,17.26639747619629
+25,1,he,m,Match,"When he was discovered,",Paul,10.849607467651367
+25,1,she,m,Mismatch,"When she was discovered, the",brother,14.490616798400879
+25,1,she,f,Match,"When she was discovered,",Heidi,15.171384811401367
+25,1,he,f,Mismatch,"When he was discovered,",Carolyn,19.829553604125977
+26,1,he,m,Match,"When he was busy, the",brother,12.56428050994873
+26,1,she,m,Mismatch,"When she was busy,",Roger,15.117048263549805
+26,1,she,f,Match,"When she was busy,",Ruth,12.320379257202148
+26,1,he,f,Mismatch,"When he was busy,",Patricia,16.630754470825195
+27,1,he,m,Match,"When he was twenty-one,",Derek,12.081353187561035
+27,1,she,m,Mismatch,"When she was twenty-one,",Gary,15.89221477508545
+27,1,she,f,Match,"When she was twenty-one,",Caroline,11.074481010437012
+27,1,he,f,Mismatch,"When he was twenty-one,",Julia,16.936979293823242
+28,1,he,m,Match,"When he was annoyed,",Bill,13.007522583007812
+28,1,she,m,Mismatch,"When she was annoyed,",Omar,18.9836483001709
+28,1,she,f,Match,"When she was annoyed,",Laurie,17.363954544067383
+28,1,he,f,Mismatch,"When he was annoyed,",Laurie,20.3846378326416
+29,1,he,m,Match,"When he was in church,",Derek,14.992355346679688
+29,1,she,m,Mismatch,"When she was in church,",Douglas,17.515817642211914
+29,1,she,f,Match,"When she was in church,",Sonia,16.163915634155273
+29,1,he,f,Mismatch,"When he was in church,",Valerie,21.356990814208984
+30,1,he,m,Match,"When he was banished,",Alan,14.039711952209473
+30,1,she,m,Mismatch,"When she was banished,",Derek,17.249126434326172
+30,1,she,f,Match,"When she was banished,",Erin,14.651923179626465
+30,1,he,f,Mismatch,"When he was banished,",Sonia,20.166671752929688
+31,1,he,m,Match,"When he was angry,",Daniel,12.189230918884277
+31,1,she,m,Mismatch,"When she was angry,",Todd,17.68415069580078
+31,1,she,f,Match,"When she was angry,",Erin,14.823318481445312
+31,1,he,f,Mismatch,"When he was angry,",Julia,17.751026153564453
+32,1,he,m,Match,"When he was distraught,",Paul,11.113107681274414
+32,1,she,m,Mismatch,"When she was distraught, the",boy,7.618832111358643
+32,1,she,f,Match,"When she was distraught,",Heidi,17.26219940185547
+32,1,he,f,Mismatch,"When he was distraught,",Barbara,16.315073013305664
+1,1,he,m,Match,"When he was off work,",Joel,13.252370834350586
+1,1,she,m,Mismatch,"When she was off work,",Alan,14.849587440490723
+1,1,she,f,Match,"When she was off work,",Rebecca,11.24678897857666
+1,1,he,f,Mismatch,"When he was off work,",Stacy,17.035470962524414
+2,1,he,m,Match,"When he arrived,",Raymond,15.43552017211914
+2,1,she,m,Mismatch,"When she arrived,",Mitchell,14.38913345336914
+2,1,she,f,Match,"When she arrived,",Samantha,11.830074310302734
+2,1,he,f,Mismatch,"When he arrived,",Lisa,15.124135971069336
+3,1,he,m,Match,"When he was fed up, the",boy,5.583515167236328
+3,1,she,m,Mismatch,"When she was fed up,",Daniel,14.790152549743652
+3,1,she,f,Match,"When she was fed up,",Lisa,13.447232246398926
+3,1,he,f,Mismatch,"When he was fed up,",Jessica,18.94076156616211
+4,1,he,m,Match,"When he was talking,",Carlos,16.045429229736328
+4,1,she,m,Mismatch,"When she was talking,",Peter,11.786975860595703
+4,1,she,f,Match,"When she was talking,",Diana,13.486883163452148
+4,1,he,f,Mismatch,"When he was talking, the",lady,9.909395217895508
+5,1,he,m,Match,"When he was nearby,",Stephen,13.975279808044434
+5,1,she,m,Mismatch,"When she was nearby,",Peter,11.34447193145752
+5,1,she,f,Match,"When she was nearby, the",daughter,10.343411445617676
+5,1,he,f,Mismatch,"When he was nearby,",Katherine,14.36331558227539
+6,1,he,m,Match,"When he was lost,",Walter,15.31627368927002
+6,1,she,m,Mismatch,"When she was lost, the",boyfriend,15.896435737609863
+6,1,she,f,Match,"When she was lost,",Jessica,16.168319702148438
+6,1,he,f,Mismatch,"When he was lost,",Paula,18.009620666503906
+7,1,he,m,Match,"When he was bad-tempered,",Daniel,13.852606773376465
+7,1,she,m,Mismatch,"When she was bad-tempered,",James,13.528364181518555
+7,1,she,f,Match,"When she was bad-tempered,",Sarah,11.780795097351074
+7,1,he,f,Mismatch,"When he was bad-tempered, the",actress,13.659828186035156
+8,1,he,m,Match,"When he was jealous,",Alan,14.487031936645508
+8,1,she,m,Mismatch,"When she was jealous,",Matt,15.803741455078125
+8,1,she,f,Match,"When she was jealous,",Amy,12.012895584106445
+8,1,he,f,Mismatch,"When he was jealous,",Rachel,15.853188514709473
+9,1,he,m,Match,"When he was in residence,",Craig,14.428644180297852
+9,1,she,m,Mismatch,"When she was in residence,",Stephen,14.716361045837402
+9,1,she,f,Match,"When she was in residence,",Heidi,15.920970916748047
+9,1,he,f,Mismatch,"When he was in residence, the",grandmother,16.523962020874023
+10,1,he,m,Match,"When he was introduced,",Martin,9.222590446472168
+10,1,she,m,Mismatch,"When she was introduced,",Curtis,15.156363487243652
+10,1,she,f,Match,"When she was introduced,",Heather,13.171050071716309
+10,1,he,f,Mismatch,"When he was introduced,",Lisa,16.060020446777344
+11,1,he,m,Match,"When he arrived,",Mitchell,13.726646423339844
+11,1,she,m,Mismatch,"When she arrived,",Peter,11.909375190734863
+11,1,she,f,Match,"When she arrived,",Eva,13.784099578857422
+11,1,he,f,Mismatch,"When he arrived,",Valerie,17.867897033691406
+12,1,he,m,Match,"When he felt sad,",Bill,13.046675682067871
+12,1,she,m,Mismatch,"When she felt sad,",Derek,18.550777435302734
+12,1,she,f,Match,"When she felt sad,",Jennifer,11.62016487121582
+12,1,he,f,Mismatch,"When he felt sad,",Veronica,22.62813377380371
+13,1,he,m,Match,"When he was present,",Bill,12.533919334411621
+13,1,she,m,Mismatch,"When she was present,",Michael,12.693056106567383
+13,1,she,f,Match,"When she was present,",Laurie,18.252714157104492
+13,1,he,f,Mismatch,"When he was present,",Ruth,15.181184768676758
+14,1,he,m,Match,"When he was depressed,",Stephen,12.78621768951416
+14,1,she,m,Mismatch,"When she was depressed,",Curtis,18.160629272460938
+14,1,she,f,Match,"When she was depressed, the",actress,9.547799110412598
+14,1,he,f,Mismatch,"When he was depressed,",Cindy,18.76614761352539
+15,1,he,m,Match,"When he was around,",Lawrence,14.891459465026855
+15,1,she,m,Mismatch,"When she was around,",Adam,12.457968711853027
+15,1,she,f,Match,"When she was around,",Donna,16.324865341186523
+15,1,he,f,Mismatch,"When he was around,",Tara,17.537904739379883
+16,1,he,m,Match,"When he was near,",Craig,14.488280296325684
+16,1,she,m,Mismatch,"When she was near,",Frank,12.666807174682617
+16,1,she,f,Match,"When she was near, the",actress,14.808670997619629
+16,1,he,f,Mismatch,"When he was near,",Donna,16.53278923034668
+17,1,he,m,Match,"When he was in court,",Gerald,16.425649642944336
+17,1,she,m,Mismatch,"When she was in court,",Daniel,14.04422664642334
+17,1,she,f,Match,"When she was in court,",Tara,14.635194778442383
+17,1,he,f,Mismatch,"When he was in court,",Monica,19.561548233032227
+18,1,he,m,Match,"When he was poorly,",Matt,13.788658142089844
+18,1,she,m,Mismatch,"When she was poorly,",Peter,12.861910820007324
+18,1,she,f,Match,"When she was poorly,",Stacy,18.341346740722656
+18,1,he,f,Mismatch,"When he was poorly,",Sonia,19.203041076660156
+19,1,he,m,Match,"When he arrived, the",brother,12.284481048583984
+19,1,she,m,Mismatch,"When she arrived,",Martin,12.223143577575684
+19,1,she,f,Match,"When she arrived,",Allison,14.011197090148926
+19,1,he,f,Mismatch,"When he arrived,",Leslie,15.574520111083984
+20,1,he,m,Match,"When he was appointed,",Gary,12.103141784667969
+20,1,she,m,Mismatch,"When she was appointed,",Curtis,14.920003890991211
+20,1,she,f,Match,"When she was appointed,",Katherine,13.234386444091797
+20,1,he,f,Mismatch,"When he was appointed,",Paula,17.28297233581543
+21,1,he,m,Match,"When he was fired, the",brother,13.147500991821289
+21,1,she,m,Mismatch,"When she was fired,",Gary,14.093642234802246
+21,1,she,f,Match,"When she was fired,",Samantha,12.099532127380371
+21,1,he,f,Mismatch,"When he was fired,",Rebecca,16.57086753845215
+22,1,he,m,Match,"When he was close, the",husband,13.156920433044434
+22,1,she,m,Mismatch,"When she was close,",William,12.286376953125
+22,1,she,f,Match,"When she was close,",Barbara,15.213171005249023
+22,1,he,f,Mismatch,"When he was close,",Sandra,15.551664352416992
+23,1,he,m,Match,"When he was retired,",Curtis,15.595966339111328
+23,1,she,m,Mismatch,"When she was retired,",Daniel,15.639829635620117
+23,1,she,f,Match,"When she was retired,",Tara,16.18984031677246
+23,1,he,f,Mismatch,"When he was retired,",Donna,19.006134033203125
+24,1,he,m,Match,"When he was abroad,",Roger,13.431876182556152
+24,1,she,m,Mismatch,"When she was abroad,",George,12.255159378051758
+24,1,she,f,Match,"When she was abroad,",April,15.775627136230469
+24,1,he,f,Mismatch,"When he was abroad,",Katherine,16.708084106445312
+25,1,he,m,Match,"When he was discovered, the",man,4.1136651039123535
+25,1,she,m,Mismatch,"When she was discovered,",Peter,14.480732917785645
+25,1,she,f,Match,"When she was discovered,",Heather,14.362948417663574
+25,1,he,f,Mismatch,"When he was discovered,",Jessica,17.449602127075195
+26,1,he,m,Match,"When he was busy,",Raymond,15.361842155456543
+26,1,she,m,Mismatch,"When she was busy,",Stephen,14.161466598510742
+26,1,she,f,Match,"When she was busy,",Allison,13.685790061950684
+26,1,he,f,Mismatch,"When he was busy,",Barbara,15.786665916442871
+27,1,he,m,Match,"When he was twenty-one,",Lawrence,11.709327697753906
+27,1,she,m,Mismatch,"When she was twenty-one, the",husband,11.4132719039917
+27,1,she,f,Match,"When she was twenty-one,",Jessica,12.262140274047852
+27,1,he,f,Mismatch,"When he was twenty-one,",Pamela,19.395875930786133
+28,1,he,m,Match,"When he was annoyed,",Michael,12.075027465820312
+28,1,she,m,Mismatch,"When she was annoyed,",Peter,14.70887279510498
+28,1,she,f,Match,"When she was annoyed,",Andrea,15.94614315032959
+28,1,he,f,Mismatch,"When he was annoyed,",Nina,19.69136619567871
+29,1,he,m,Match,"When he was in church,",Gerald,16.325136184692383
+29,1,she,m,Mismatch,"When she was in church,",Frank,14.91248607635498
+29,1,she,f,Match,"When she was in church,",Martha,12.71348762512207
+29,1,he,f,Mismatch,"When he was in church, the",grandmother,15.287727355957031
+30,1,he,m,Match,"When he was banished, the",boyfriend,17.79924774169922
+30,1,she,m,Mismatch,"When she was banished,",Roger,16.127853393554688
+30,1,she,f,Match,"When she was banished,",Elaine,15.212567329406738
+30,1,he,f,Mismatch,"When he was banished,",Erin,16.695051193237305
+31,1,he,m,Match,"When he was angry,",Roger,13.921592712402344
+31,1,she,m,Mismatch,"When she was angry,",Walter,17.724559783935547
+31,1,she,f,Match,"When she was angry,",Allison,14.908348083496094
+31,1,he,f,Mismatch,"When he was angry,",Ellen,18.265167236328125
+32,1,he,m,Match,"When he was distraught,",Curtis,16.54842185974121
+32,1,she,m,Mismatch,"When she was distraught,",Raymond,15.994866371154785
+32,1,she,f,Match,"When she was distraught,",Allison,16.169084548950195
+32,1,he,f,Mismatch,"When he was distraught,",Heidi,19.412500381469727
+1,1,he,m,Match,"When he was off work,",Gary,10.297429084777832
+1,1,she,m,Mismatch,"When she was off work, the",boyfriend,13.687566757202148
+1,1,she,f,Match,"When she was off work,",Jennifer,9.505420684814453
+1,1,he,f,Mismatch,"When he was off work,",Andrea,16.11615562438965
+2,1,he,m,Match,"When he arrived,",Martin,11.207438468933105
+2,1,she,m,Mismatch,"When she arrived, the",man,6.453089714050293
+2,1,she,f,Match,"When she arrived,",Katherine,12.526708602905273
+2,1,he,f,Mismatch,"When he arrived,",Jennifer,14.306346893310547
+3,1,he,m,Match,"When he was fed up,",Martin,12.990540504455566
+3,1,she,m,Mismatch,"When she was fed up,",Lawrence,16.5049991607666
+3,1,she,f,Match,"When she was fed up,",Theresa,16.36077880859375
+3,1,he,f,Mismatch,"When he was fed up,",Martha,18.345701217651367
+4,1,he,m,Match,"When he was talking,",Vincent,14.859522819519043
+4,1,she,m,Mismatch,"When she was talking,",Michael,12.373929023742676
+4,1,she,f,Match,"When she was talking,",Cindy,15.425267219543457
+4,1,he,f,Mismatch,"When he was talking,",Valerie,18.891693115234375
+5,1,he,m,Match,"When he was nearby,",Martin,13.174484252929688
+5,1,she,m,Mismatch,"When she was nearby,",Martin,13.715437889099121
+5,1,she,f,Match,"When she was nearby,",Martha,14.818185806274414
+5,1,he,f,Mismatch,"When he was nearby,",Eva,15.691852569580078
+6,1,he,m,Match,"When he was lost,",James,12.5934419631958
+6,1,she,m,Mismatch,"When she was lost,",Peter,12.745673179626465
+6,1,she,f,Match,"When she was lost,",Patricia,16.021318435668945
+6,1,he,f,Mismatch,"When he was lost,",Sara,17.777482986450195
+7,1,he,m,Match,"When he was bad-tempered,",Gerald,16.372352600097656
+7,1,she,m,Mismatch,"When she was bad-tempered,",Carl,14.671004295349121
+7,1,she,f,Match,"When she was bad-tempered,",Sara,13.70352554321289
+7,1,he,f,Mismatch,"When he was bad-tempered,",Elaine,17.534507751464844
+8,1,he,m,Match,"When he was jealous,",Roger,14.981371879577637
+8,1,she,m,Mismatch,"When she was jealous,",Carl,15.600181579589844
+8,1,she,f,Match,"When she was jealous, the",daughter,10.664223670959473
+8,1,he,f,Mismatch,"When he was jealous,",Ruth,18.07866859436035
+9,1,he,m,Match,"When he was in residence,",Vincent,11.95704174041748
+9,1,she,m,Mismatch,"When she was in residence, the",grandfather,16.53573989868164
+9,1,she,f,Match,"When she was in residence, the",niece,14.998912811279297
+9,1,he,f,Mismatch,"When he was in residence,",Heidi,20.341623306274414
+10,1,he,m,Match,"When he was introduced,",Michael,10.050609588623047
+10,1,she,m,Mismatch,"When she was introduced, the",boyfriend,16.03973388671875
+10,1,she,f,Match,"When she was introduced,",Sara,12.214751243591309
+10,1,he,f,Mismatch,"When he was introduced,",Margaret,17.280553817749023
+11,1,he,m,Match,"When he arrived,",Jerry,12.83078670501709
+11,1,she,m,Mismatch,"When she arrived,",Michael,12.376626968383789
+11,1,she,f,Match,"When she arrived, the",daughter,10.032266616821289
+11,1,he,f,Mismatch,"When he arrived,",Carolyn,18.020503997802734
+12,1,he,m,Match,"When he felt sad,",Gerald,16.277650833129883
+12,1,she,m,Mismatch,"When she felt sad,",Peter,14.74178695678711
+12,1,she,f,Match,"When she felt sad,",Diane,14.926681518554688
+12,1,he,f,Mismatch,"When he felt sad,",Barbara,19.072772979736328
+13,1,he,m,Match,"When he was present,",Michael,12.277907371520996
+13,1,she,m,Mismatch,"When she was present,",James,11.938089370727539
+13,1,she,f,Match,"When she was present,",Rebecca,14.035035133361816
+13,1,he,f,Mismatch,"When he was present,",Monica,18.178762435913086
+14,1,he,m,Match,"When he was depressed,",Gregory,14.998493194580078
+14,1,she,m,Mismatch,"When she was depressed,",Derek,17.17207908630371
+14,1,she,f,Match,"When she was depressed,",Heidi,15.112523078918457
+14,1,he,f,Mismatch,"When he was depressed,",Heather,19.449047088623047
+15,1,he,m,Match,"When he was around,",Matt,13.928481101989746
+15,1,she,m,Mismatch,"When she was around,",Paul,11.64912223815918
+15,1,she,f,Match,"When she was around, the",niece,17.315778732299805
+15,1,he,f,Mismatch,"When he was around,",Ruth,14.558245658874512
+16,1,he,m,Match,"When he was near, the",grandfather,13.148547172546387
+16,1,she,m,Mismatch,"When she was near,",Theodore,16.943984985351562
+16,1,she,f,Match,"When she was near,",Margaret,13.788534164428711
+16,1,he,f,Mismatch,"When he was near,",Theresa,17.6540584564209
+17,1,he,m,Match,"When he was in court,",Walter,14.065895080566406
+17,1,she,m,Mismatch,"When she was in court,",Patrick,15.109051704406738
+17,1,she,f,Match,"When she was in court,",Gina,15.9820556640625
+17,1,he,f,Mismatch,"When he was in court,",Lisa,16.199203491210938
+18,1,he,m,Match,"When he was poorly,",Scott,13.846932411193848
+18,1,she,m,Mismatch,"When she was poorly,",Craig,15.479689598083496
+18,1,she,f,Match,"When she was poorly,",Lisa,13.155919075012207
+18,1,he,f,Mismatch,"When he was poorly,",Patricia,17.484853744506836
+19,1,he,m,Match,"When he arrived,",Lawrence,13.61178970336914
+19,1,she,m,Mismatch,"When she arrived,",Matt,13.046226501464844
+19,1,she,f,Match,"When she arrived,",Melissa,13.207667350769043
+19,1,he,f,Mismatch,"When he arrived,",Emily,12.960023880004883
+20,1,he,m,Match,"When he was appointed,",Peter,10.872503280639648
+20,1,she,m,Mismatch,"When she was appointed, the",boyfriend,16.146360397338867
+20,1,she,f,Match,"When she was appointed,",Nina,15.029389381408691
+20,1,he,f,Mismatch,"When he was appointed,",Stacy,17.849849700927734
+21,1,he,m,Match,"When he was fired, the",boyfriend,13.795112609863281
+21,1,she,m,Mismatch,"When she was fired,",Raymond,16.76742172241211
+21,1,she,f,Match,"When she was fired,",Theresa,14.661123275756836
+21,1,he,f,Mismatch,"When he was fired,",Eva,19.45870590209961
+22,1,he,m,Match,"When he was close,",Stephen,12.629948616027832
+22,1,she,m,Mismatch,"When she was close, the",brother,12.177620887756348
+22,1,she,f,Match,"When she was close,",Heidi,15.742411613464355
+22,1,he,f,Mismatch,"When he was close,",Melissa,15.356768608093262
+23,1,he,m,Match,"When he was retired, the",grandfather,13.078545570373535
+23,1,she,m,Mismatch,"When she was retired, the",boyfriend,14.772673606872559
+23,1,she,f,Match,"When she was retired,",Stacy,17.47665786743164
+23,1,he,f,Mismatch,"When he was retired, the",daughter,13.282369613647461
+24,1,he,m,Match,"When he was abroad,",Raymond,15.687830924987793
+24,1,she,m,Mismatch,"When she was abroad,",Lawrence,14.873912811279297
+24,1,she,f,Match,"When she was abroad,",Holly,14.050037384033203
+24,1,he,f,Mismatch,"When he was abroad, the",niece,16.389469146728516
+25,1,he,m,Match,"When he was discovered,",Patrick,13.661674499511719
+25,1,she,m,Mismatch,"When she was discovered,",Gregory,16.957101821899414
+25,1,she,f,Match,"When she was discovered,",Margaret,13.325156211853027
+25,1,he,f,Mismatch,"When he was discovered,",Theresa,20.44572639465332
+26,1,he,m,Match,"When he was busy,",Robert,12.844265937805176
+26,1,she,m,Mismatch,"When she was busy,",Craig,14.941434860229492
+26,1,she,f,Match,"When she was busy,",Diane,15.165179252624512
+26,1,he,f,Mismatch,"When he was busy,",Stacy,18.67352867126465
+27,1,he,m,Match,"When he was twenty-one,",James,8.106799125671387
+27,1,she,m,Mismatch,"When she was twenty-one,",Stephen,14.373027801513672
+27,1,she,f,Match,"When she was twenty-one,",Eva,11.43191909790039
+27,1,he,f,Mismatch,"When he was twenty-one,",Wendy,19.51774024963379
+28,1,he,m,Match,"When he was annoyed, the",grandfather,11.781517028808594
+28,1,she,m,Mismatch,"When she was annoyed,",Walter,17.392040252685547
+28,1,she,f,Match,"When she was annoyed,",Nina,14.51671028137207
+28,1,he,f,Mismatch,"When he was annoyed,",Theresa,20.10918426513672
+29,1,he,m,Match,"When he was in church,",Matt,13.854666709899902
+29,1,she,m,Mismatch,"When she was in church,",Lawrence,15.82657241821289
+29,1,she,f,Match,"When she was in church,",Amy,10.923490524291992
+29,1,he,f,Mismatch,"When he was in church,",Carmen,18.0924015045166
+30,1,he,m,Match,"When he was banished,",Matt,14.419878005981445
+30,1,she,m,Mismatch,"When she was banished,",Patrick,16.022891998291016
+30,1,she,f,Match,"When she was banished,",Paula,15.502155303955078
+30,1,he,f,Mismatch,"When he was banished,",Rebecca,17.258800506591797
+31,1,he,m,Match,"When he was angry,",Peter,11.652432441711426
+31,1,she,m,Mismatch,"When she was angry,",Craig,17.013999938964844
+31,1,she,f,Match,"When she was angry,",Eva,14.412678718566895
+31,1,he,f,Mismatch,"When he was angry,",Amy,16.77313995361328
+32,1,he,m,Match,"When he was distraught,",Alan,13.684812545776367
+32,1,she,m,Mismatch,"When she was distraught,",Martin,14.975539207458496
+32,1,she,f,Match,"When she was distraught,",Jennifer,13.26465892791748
+32,1,he,f,Mismatch,"When he was distraught,",Jessica,16.7659969329834
+1,1,he,m,Match,"When he was off work,",Rodney,15.71873664855957
+1,1,she,m,Mismatch,"When she was off work,",James,12.622230529785156
+1,1,she,f,Match,"When she was off work,",Diane,12.283032417297363
+1,1,he,f,Mismatch,"When he was off work,",Gina,18.953033447265625
+2,1,he,m,Match,"When he arrived,",Matt,12.571249008178711
+2,1,she,m,Mismatch,"When she arrived,",Walter,15.122844696044922
+2,1,she,f,Match,"When she arrived,",Theresa,15.417885780334473
+2,1,he,f,Mismatch,"When he arrived,",Rose,13.65528392791748
+3,1,he,m,Match,"When he was fed up,",Michael,12.11550521850586
+3,1,she,m,Mismatch,"When she was fed up,",Robert,15.705272674560547
+3,1,she,f,Match,"When she was fed up,",Heather,15.607428550720215
+3,1,he,f,Mismatch,"When he was fed up,",Brenda,20.03160285949707
+4,1,he,m,Match,"When he was talking, the",son,11.811629295349121
+4,1,she,m,Mismatch,"When she was talking,",Carl,14.211037635803223
+4,1,she,f,Match,"When she was talking,",Jennifer,12.788408279418945
+4,1,he,f,Mismatch,"When he was talking, the",grandmother,15.415701866149902
+5,1,he,m,Match,"When he was nearby,",Marcus,12.896329879760742
+5,1,she,m,Mismatch,"When she was nearby,",Rodney,18.446044921875
+5,1,she,f,Match,"When she was nearby,",Brenda,15.713845252990723
+5,1,he,f,Mismatch,"When he was nearby,",Sara,15.245353698730469
+6,1,he,m,Match,"When he was lost,",Matt,15.54016399383545
+6,1,she,m,Mismatch,"When she was lost,",Stephen,14.99885082244873
+6,1,she,f,Match,"When she was lost,",Dawn,17.792951583862305
+6,1,he,f,Mismatch,"When he was lost,",Nancy,17.280357360839844
+7,1,he,m,Match,"When he was bad-tempered,",Lawrence,15.075333595275879
+7,1,she,m,Mismatch,"When she was bad-tempered,",Robert,13.086015701293945
+7,1,she,f,Match,"When she was bad-tempered,",Martha,13.109508514404297
+7,1,he,f,Mismatch,"When he was bad-tempered,",Sandra,16.459739685058594
+8,1,he,m,Match,"When he was jealous,",Rodney,18.288942337036133
+8,1,she,m,Mismatch,"When she was jealous,",David,14.457769393920898
+8,1,she,f,Match,"When she was jealous,",Nancy,13.34151554107666
+8,1,he,f,Mismatch,"When he was jealous,",Brenda,20.45208740234375
+9,1,he,m,Match,"When he was in residence,",Rodney,17.501792907714844
+9,1,she,m,Mismatch,"When she was in residence,",David,12.518627166748047
+9,1,she,f,Match,"When she was in residence,",Michelle,13.377768516540527
+9,1,he,f,Mismatch,"When he was in residence,",Rose,13.826848983764648
+10,1,he,m,Match,"When he was introduced,",Vincent,14.115201950073242
+10,1,she,m,Mismatch,"When she was introduced,",Stephen,14.186739921569824
+10,1,she,f,Match,"When she was introduced,",Patricia,11.57658576965332
+10,1,he,f,Mismatch,"When he was introduced,",Brenda,18.61194610595703
+11,1,he,m,Match,"When he arrived,",Noah,14.440389633178711
+11,1,she,m,Mismatch,"When she arrived,",Carl,13.572468757629395
+11,1,she,f,Match,"When she arrived,",Michelle,13.820422172546387
+11,1,he,f,Mismatch,"When he arrived,",Martha,16.657400131225586
+12,1,he,m,Match,"When he felt sad,",Marcus,13.766423225402832
+12,1,she,m,Mismatch,"When she felt sad, the",son,14.013385772705078
+12,1,she,f,Match,"When she felt sad,",Martha,13.125128746032715
+12,1,he,f,Mismatch,"When he felt sad,",Brenda,20.346981048583984
+13,1,he,m,Match,"When he was present,",James,11.559247970581055
+13,1,she,m,Mismatch,"When she was present, the",son,11.96314525604248
+13,1,she,f,Match,"When she was present,",Jessica,14.943696022033691
+13,1,he,f,Mismatch,"When he was present,",Allison,18.178882598876953
+14,1,he,m,Match,"When he was depressed,",Rodney,18.454389572143555
+14,1,she,m,Mismatch,"When she was depressed,",Robert,13.506192207336426
+14,1,she,f,Match,"When she was depressed,",Melissa,14.469473838806152
+14,1,he,f,Mismatch,"When he was depressed,",Brenda,19.77195167541504
+15,1,he,m,Match,"When he was around,",Marcus,14.407571792602539
+15,1,she,m,Mismatch,"When she was around,",Alan,14.365683555603027
+15,1,she,f,Match,"When she was around,",Dawn,16.70038604736328
+15,1,he,f,Mismatch,"When he was around,",Allison,16.417518615722656
+16,1,he,m,Match,"When he was near,",Carl,12.935772895812988
+16,1,she,m,Mismatch,"When she was near,",Vincent,14.591073036193848
+16,1,she,f,Match,"When she was near,",Brenda,16.647136688232422
+16,1,he,f,Mismatch,"When he was near,",Amy,13.45653247833252
+17,1,he,m,Match,"When he was in court,",Robert,10.601188659667969
+17,1,she,m,Mismatch,"When she was in court,",Carl,14.434393882751465
+17,1,she,f,Match,"When she was in court,",Sara,14.08000659942627
+17,1,he,f,Mismatch,"When he was in court,",Sarah,14.502812385559082
+18,1,he,m,Match,"When he was poorly,",Noah,15.284494400024414
+18,1,she,m,Mismatch,"When she was poorly, the",grandfather,14.81633186340332
+18,1,she,f,Match,"When she was poorly,",Heather,15.030426025390625
+18,1,he,f,Mismatch,"When he was poorly,",Brenda,18.01055145263672
+19,1,he,m,Match,"When he arrived, the",grandfather,14.277153015136719
+19,1,she,m,Mismatch,"When she arrived,",Marcus,14.565001487731934
+19,1,she,f,Match,"When she arrived,",Nina,13.930787086486816
+19,1,he,f,Mismatch,"When he arrived,",Diane,16.578977584838867
+20,1,he,m,Match,"When he was appointed,",Stephen,11.971064567565918
+20,1,she,m,Mismatch,"When she was appointed,",Craig,14.31812572479248
+20,1,she,f,Match,"When she was appointed,",Jennifer,13.475245475769043
+20,1,he,f,Mismatch,"When he was appointed,",Carolyn,19.423410415649414
+21,1,he,m,Match,"When he was fired,",Matt,11.750393867492676
+21,1,she,m,Mismatch,"When she was fired,",Martin,10.378220558166504
+21,1,she,f,Match,"When she was fired,",Patricia,11.258745193481445
+21,1,he,f,Mismatch,"When he was fired,",Nancy,14.438172340393066
+22,1,he,m,Match,"When he was close,",David,10.2558012008667
+22,1,she,m,Mismatch,"When she was close,",Michael,11.53370475769043
+22,1,she,f,Match,"When she was close,",Lisa,13.64603328704834
+22,1,he,f,Mismatch,"When he was close,",Heather,15.570734977722168
+23,1,he,m,Match,"When he was retired,",Rodney,17.439002990722656
+23,1,she,m,Mismatch,"When she was retired,",Michael,14.097103118896484
+23,1,she,f,Match,"When she was retired,",Amy,12.466448783874512
+23,1,he,f,Mismatch,"When he was retired,",Heather,19.054290771484375
+24,1,he,m,Match,"When he was abroad,",Noah,15.528180122375488
+24,1,she,m,Mismatch,"When she was abroad,",Craig,16.82497215270996
+24,1,she,f,Match,"When she was abroad,",Martha,12.808855056762695
+24,1,he,f,Mismatch,"When he was abroad,",Sandra,19.320863723754883
+25,1,he,m,Match,"When he was discovered,",Walter,13.415846824645996
+25,1,she,m,Mismatch,"When she was discovered,",Noah,17.269611358642578
+25,1,she,f,Match,"When she was discovered,",Patricia,12.423727989196777
+25,1,he,f,Mismatch,"When he was discovered,",Martha,18.708209991455078
+26,1,he,m,Match,"When he was busy,",Rodney,18.590129852294922
+26,1,she,m,Mismatch,"When she was busy, the",son,10.80741024017334
+26,1,she,f,Match,"When she was busy,",Nancy,11.813307762145996
+26,1,he,f,Mismatch,"When he was busy,",Heather,17.035795211791992
+27,1,he,m,Match,"When he was twenty-one,",Joel,12.747817993164062
+27,1,she,m,Mismatch,"When she was twenty-one,",Martin,14.36601734161377
+27,1,she,f,Match,"When she was twenty-one,",Sara,11.981112480163574
+27,1,he,f,Mismatch,"When he was twenty-one,",Jill,17.8646297454834
+28,1,he,m,Match,"When he was annoyed,",Carl,13.391777038574219
+28,1,she,m,Mismatch,"When she was annoyed,",Noah,17.59910011291504
+28,1,she,f,Match,"When she was annoyed, the",daughter,9.796345710754395
+28,1,he,f,Mismatch,"When he was annoyed,",Diane,19.23643684387207
+29,1,he,m,Match,"When he was in church,",Vincent,13.477829933166504
+29,1,she,m,Mismatch,"When she was in church,",Joel,17.746244430541992
+29,1,she,f,Match,"When she was in church,",Patricia,12.579876899719238
+29,1,he,f,Mismatch,"When he was in church,",Michelle,18.45627212524414
+30,1,he,m,Match,"When he was banished,",Noah,14.36938190460205
+30,1,she,m,Mismatch,"When she was banished,",Lawrence,15.655680656433105
+30,1,she,f,Match,"When she was banished,",Carmen,14.541769027709961
+30,1,he,f,Mismatch,"When he was banished,",Caroline,18.437091827392578
+31,1,he,m,Match,"When he was angry,",Raymond,15.376954078674316
+31,1,she,m,Mismatch,"When she was angry, the",son,13.215547561645508
+31,1,she,f,Match,"When she was angry,",Heather,15.778166770935059
+31,1,he,f,Mismatch,"When he was angry,",Michelle,19.0802059173584
+32,1,he,m,Match,"When he was distraught,",Gerald,16.758440017700195
+32,1,she,m,Mismatch,"When she was distraught, the",son,10.743691444396973
+32,1,she,f,Match,"When she was distraught,",Rebecca,14.451233863830566
+32,1,he,f,Mismatch,"When he was distraught,",Patricia,17.3051815032959
